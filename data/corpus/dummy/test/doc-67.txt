@@ -1,0 +1,47 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Dolores Tartaglia
+Data di Nascita: 13/03/1947
+Indirizzo: Via Galasso, 64, 87034 Grimaldi (CS)
+Telefono: 073140057
+Codice Fiscale: TLNRFL98C65C612G
+
+Medico Curante: Dott.ssa Paola Udinesi
+Struttura Ospedaliera: A.O. "S.CARLO BORROMEO" - MILANO
+
+Storia del Paziente:
+- Ricovero #1:
+  Data: 01/05/2010
+  Reparto: Cardiologia
+  Stanza: 305
+  Sintomi: Dolore al petto, affaticamento, dispnea
+  Intervento: Angioplastica coronarica
+
+- Ricovero #2:
+  Data: 18/10/2015
+  Reparto: Neurologia
+  Stanza: 412
+  Sintomi: Emicrania intensa, perdita di equilibrio, confusione mentale
+  Intervento: Esame TC cerebrale e terapia farmacologica
+
+- Ricovero #3:
+  Data: 26/07/2018
+  Reparto: Ortopedia
+  Stanza: 203
+  Sintomi: Dolore al ginocchio destro, difficoltà nella deambulazione
+  Intervento: Artroscopia al ginocchio
+
+Durante il ricovero in Cardiologia, Dolores presentava sintomi quali dolore al petto, affaticamento e dispnea. È stata sottoposta a un intervento di angioplastica coronarica per risolvere l'ostruzione delle arterie coronariche.
+
+In seguito, è stato necessario un ricovero nel reparto di Neurologia a causa di emicrania intensa, perdita di equilibrio e confusione mentale. Dolores ha ricevuto un esame TC cerebrale per valutare eventuali alterazioni neurologiche e successivamente è stata sottoposta a terapia farmacologica per migliorare i sintomi.
+
+Più recentemente, Dolores è stata ricoverata in Ortopedia per trattare un dolore persistente al ginocchio destro e difficoltà nella deambulazione. È stata sottoposta a un intervento di artroscopia al ginocchio al fine di individuare e risolvere eventuali problemi articolari.
+
+Il paziente è stato spostato in diverse stanze durante i ricoveri, con i seguenti dettagli:
+- Ricovero #1: Stanza 305
+- Ricovero #2: Stanza 412
+- Ricovero #3: Stanza 203
+
+La Dott.ssa Paola Udinesi è il medico curante di Dolores presso l'A.O. "S.CARLO BORROMEO" di Milano. Si presta attualmente al reparto di Ortopedia.
+
+Si precisa che i dati personali del paziente sono trattati in maniera confidenziale e protetti da opportune misure di sicurezza, in conformità con la normativa vigente sulla privacy.

@@ -1,0 +1,74 @@
+Cartella Clinica Ospedaliera
+
+Nome Paziente: Ivo Collodi
+Data di Nascita Paziente: 29-11-1928
+Indirizzo Paziente: Rotonda Gemma, 4
+21032, Caravate (VA)
+
+-----------------------------------------------------
+
+Storico del Paziente:
+
+- Ricovero #1:
+  Data: 15-03-2010
+  Reparto: Cardiologia
+  Stato di Salute: Problemi cardiaci, dispnea e dolore al petto. Diagnosi di angina pectoris. Esami effettuati: ECG, ecocardiogramma.
+
+- Ricovero #2:
+  Data: 06-05-2014
+  Reparto: Geriatria
+  Stato di Salute: Problemi motori, debolezza alle gambe. Diagnosi di osteoporosi e sarcopenia. Esami effettuati: densitometria ossea, analisi del sangue.
+
+- Ricovero #3:
+  Data: 10-02-2019
+  Reparto: Ortopedia
+  Stato di Salute: Frattura al polso destro a seguito di una caduta. Esami effettuati: radiografia, visita specialistica.
+
+-----------------------------------------------------
+
+Storico degli Interventi:
+
+- Intervento #1:
+  Data: 02-04-2010
+  Tipo: Angioplastica coronarica
+  Medico Specialista: Adamo Tebaldi (Dott.)
+
+- Intervento #2:
+  Data: 20-05-2014
+  Tipo: Chirurgia ortopedica
+  Medico Specialista: Giuliana Marchetti (Dott.ssa)
+
+- Intervento #3:
+  Data: 15-03-2019
+  Tipo: Riduzione anatomica di frattura
+  Medico Specialista: Alberto Bianchi (Dott.)
+
+-----------------------------------------------------
+
+Storico dei Sintomi:
+
+- Sintomo #1:
+  Data: 12-02-2010
+  Descrizione: Dolore toracico acuto, affaticamento
+
+- Sintomo #2:
+  Data: 05-05-2014
+  Descrizione: Debolezza muscolare, difficoltà a camminare
+
+- Sintomo #3:
+  Data: 08-03-2019
+  Descrizione: Gonfiore e dolore al polso destro dopo la caduta
+
+-----------------------------------------------------
+
+Medico Curante:
+
+Nome Medico: Adamo Tebaldi (Dott.)
+Email Medico: yiadanza@example.com
+Telefono Medico: +39 042479497
+Struttura Ospedaliera: Azienda Ospedaliera di Padova
+
+-----------------------------------------------------
+
+Numero della Stanza Attuale: 214
+Reparto: Ortopedia

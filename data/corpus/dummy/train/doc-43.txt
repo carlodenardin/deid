@@ -1,0 +1,64 @@
+Cartella Clinica Ospedaliera
+
+----------------------------------------
+Informazioni Paziente:
+----------------------------------------
+Nome: Gian Tomasetti
+Data di Nascita: 07-08-1975
+Indirizzo: Borgo Maspero, 4 Piano 0, 84073, Sapri (SA)
+Telefono: +39 0585787372
+Codice Fiscale: ZPPGSP56D02H921F
+
+----------------------------------------
+Informazioni Medico Curante:
+----------------------------------------
+Nome: Dott. Goffredo Rosselli
+Email: ezamorani@example.net
+Telefono: 0425082971
+Struttura Ospedaliera: IRCCS AOU S.MARTINO - IST, GENOVA
+
+----------------------------------------
+Storico del Paziente:
+----------------------------------------
+Gian Tomasetti ha avuto diversi ricoveri presso la struttura ospedaliera IRCCS AOU S.MARTINO - IST a Genova. Durante i ricoveri, ha manifestato una serie di sintomi e ha subito alcuni interventi.
+
+- Ricovero #1:
+  Data: 24-03-2010
+  Durata: 5 giorni (dal 24-03-2010 al 29-03-2010)
+  Reparto: Cardiologia
+  Stanza: 201
+  Sintomi: Dolore al petto, difficoltà respiratorie
+  Intervento: Angioplastica coronarica
+  
+- Ricovero #2:
+  Data: 12-09-2014
+  Durata: 8 giorni (dal 12-09-2014 al 20-09-2014)
+  Reparto: Ortopedia
+  Stanza: 407
+  Sintomi: Frattura alla gamba sinistra
+  Intervento: Riduzione e fissazione interna
+  
+- Ricovero #3:
+  Data: 03-05-2018
+  Durata: 3 giorni (dal 03-05-2018 al 06-05-2018)
+  Reparto: Neurologia
+  Stanza: 302
+  Sintomi: Forti emicranie, perdita temporanea di memoria
+  Intervento: Angio-TC cerebrale
+  
+- Ricovero #4:
+  Data: 19-11-2020
+  Durata: 2 giorni (dal 19-11-2020 al 21-11-2020)
+  Reparto: Gastroenterologia
+  Stanza: 109
+  Sintomi: Dolori addominali persistenti, nausea
+  Intervento: Endoscopia digestiva
+  
+Durante tutti i ricoveri, il Dott. Goffredo Rosselli ha curato Gian Tomasetti, fornendo le necessarie terapie e controllando costantemente il suo stato di salute.
+
+Rispettando la privacy del paziente, non sono stati forniti dati specifici come email e numeri di telefono.
+
+----------------------------------------
+Nota:
+----------------------------------------
+Gian Tomasetti è stato un paziente affidabile che ha sempre seguito le terapie prescritte dal Dott. Rosselli. La sua salute è stata costantemente seguita e monitorata durante i ricoveri.

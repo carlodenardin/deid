@@ -1,0 +1,64 @@
+Cartella clinica ospedaliera
+
+Paziente:
+ID: 7155845
+Nome: Mirko
+Cognome: Puglisi
+Data di Nascita: 15 dicembre 2015 (Età: 6 anni)
+Indirizzo: Borgo Missoni, 8 Appartamento 8, 01010 Barbarano Romano (VT)
+Telefono: 088443399
+Email: delfino87@example.com
+Codice Fiscale: PDRHGU71H45I436N
+
+Medico:
+Nome: Dott. Domenico
+Cognome: Letta
+Email: qsalata@example.org
+Telefono: 3755520285
+
+Struttura Ospedaliera:
+A.O.U.OSPEDALI RIUNITI - ANCONA, ANCONA
+
+Storia Clinica:
+
+1. Ricovero: 
+   - Data: 20 marzo 2022
+   - Stanza: 213 (Reparto: Cardiologia)
+   - Motivo: Dolore toracico e affaticamento
+   - Sintomi: Dispnea, palpitazioni
+   - Interventi: Elettrocardiogramma, Ecocardiogramma, Analisi del sangue
+   - Diagnosi: Tachicardia parossistica
+
+2. Ricovero:
+   - Data: 10 ottobre 2023
+   - Stanza: 305 (Reparto: Geriatria)
+   - Motivo: Caduta accidentale
+   - Sintomi: Dolore all'anca, difficoltà nella deambulazione
+   - Interventi: Radiografia dell'anca, Esami ematici
+   - Diagnosi: Frattura del collo femorale
+
+3. Admissions:
+   - Data: 5 gennaio 2024
+   - Stanza: 412 (Reparto: Ortopedia)
+   - Motivo: Intervento chirurgico all'anca
+   - Sintomi: Dolore cronico all'anca, limitata mobilità
+   - Interventi: Chirurgia di sostituzione dell'anca
+   - Diagnosi: Artrosi dell'anca
+
+4. Admissions:
+   - Data: 18 aprile 2026
+   - Stanza: 101 (Reparto: Neurologia)
+   - Motivo: Mal di testa persistente
+   - Sintomi: Cefalea, vertigini, nausea
+   - Interventi: Tomografia computerizzata del cranio, Esame neurologico
+   - Diagnosi: Emicrania
+
+5. Admissions:
+   - Data: 3 maggio 2027
+   - Stanza: 511 (Reparto: Otorinolaringoiatria)
+   - Motivo: Problemi uditivi
+   - Sintomi: Perdita dell'udito, acufeni
+   - Interventi: Audiometria, Esame otoscopico
+   - Diagnosi: Presbiacusia
+
+Si prega di notare che le informazioni riportate in questa cartella clinica ospedaliera sono riservate e confidenziali. È vietata la divulgazione o l'utilizzo non autorizzato di tali informazioni.

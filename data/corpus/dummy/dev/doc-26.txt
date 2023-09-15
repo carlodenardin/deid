@@ -1,0 +1,27 @@
+Ammissione Ospedaliera
+
+Il paziente Maurilio Barzini, nato il 24-08-1988 e residente in Viale Bartolomeo, 85, 10082 Cuorgne' (TO), è stato ricoverato presso l'Azienda Ospedaliera Pugliese De Lellis di Catanzaro.
+
+Motivo dell'ammissione:
+Il paziente è stato ricoverato a causa di una malattia cardiaca acuta, che ha presentato sintomi quali dolori al petto, mancanza di respiro e affaticamento.
+
+Sintomi:
+Le condizioni di Maurilio sono peggiorate negli ultimi giorni, manifestando un aumento dei dolori al petto e dell'affaticamento anche a riposo. Ha iniziato ad avvertire mancanza di respiro anche durante semplici attività quotidiane.
+
+Esami diagnostici:
+Dopo un'attenta valutazione dei sintomi e un esame fisico dettagliato, il Dott. Adriana Pirandello ha prescritto una serie di esami diagnostici per identificare la causa dei sintomi: elettrocardiogramma (ECG), ecocardiogramma, analisi del sangue e test da sforzo.
+
+Esiti degli esami:
+I risultati dell'elettrocardiogramma e dell'ecocardiogramma hanno mostrato la presenza di un'insufficienza cardiaca congestizia, con compromissione della funzione sistolica del ventricolo sinistro. Gli esami del sangue hanno evidenziato un aumento dei marcatori infiammatori, indicando un'infiammazione a livello cardiaco.
+
+Scelte mediche:
+Il paziente è stato sottoposto a un trattamento farmacologico specifico per l'insufficienza cardiaca, compreso il presidio di diuretici, beta-bloccanti e ACE-inibitori. Inoltre, sono state somministrate terapie volte a ridurre l'infiammazione cardiaca.
+
+Ricovero:
+Maurilio è stato assegnato alla stanza numero 215, del reparto di Cardiologia, che offre un ambiente adatto per la gestione delle sue condizioni. 
+
+Note:
+Durante il ricovero ospedaliero, è stato consigliato al paziente di seguire una dieta a basso contenuto di sodio e di limitare l'assunzione di liquidi. È stato anche avviato un programma di riabilitazione cardiaca per migliorare gradualmente la sua capacità fisica. Il paziente è stato informato sull'importanza di aderire al trattamento farmacologico prescritto e di seguire le indicazioni del personale sanitario per garantire una pronta guarigione e miglioramento della sua qualità di vita.
+
+Informazioni indirette:
+Il codice fiscale del paziente è VRNMRT47P27H288H.

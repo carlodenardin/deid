@@ -1,0 +1,53 @@
+Cartella Clinica Ospedaliera
+
+ID Paziente: 36026241
+Nome Paziente: Benvenuto
+Cognome Paziente: Olivetti
+Data di Nascita Paziente: 13 maggio 2007
+Indirizzo Paziente: Piazza Luisa, 61 Appartamento 57, 09124, Cagliari (CA)
+Telefono Paziente: 03631887432
+Email Paziente: tizianoendrizzi@example.com
+
+Nome Dottore: Dott. Silvestro
+Cognome Dottore: Abate
+Email Dottore: ariostoraffaello@example.com
+Telefono Dottore: +39 07658863854
+
+Struttura Ospedaliera: ASST DEGLI SPEDALI CIVILI DI BRESCIA
+Municipalità: BRESCIA
+
+Storia del Paziente:
+
+
+Ricovero 1:
+Data Ricovero: 5 gennaio 2018
+Reparto: Cardiologia
+Stanza: 305
+Sintomi: Palpitazioni, affaticamento, dolore al petto
+Intervento: Angioplastica coronarica
+
+Ricovero 2:
+Data Ricovero: 15 settembre 2020
+Reparto: Ortopedia
+Stanza: 207
+Sintomi: Dolore al ginocchio destro, gonfiore
+Intervento: Artroscopia
+
+Ricovero 3:
+Data Ricovero: 8 marzo 2023
+Reparto: Medicina Interna
+Stanza: 402
+Sintomi: Febbre persistente, tosse, affaticamento
+Intervento: Non applicabile
+
+La cartella clinica ospedaliera del paziente Benvenuto Olivetti riporta i dettagli del suo background medico. Durante il suo primo ricovero nel reparto di Cardiologia, il paziente ha presentato sintomi di palpitazioni, affaticamento e dolore al petto. È stato quindi sottoposto a un intervento di angioplastica coronarica il 5 gennaio 2018, nella stanza 305.
+
+In seguito, il paziente è stato ricoverato nell'ambito dell'ortopedia il 15 settembre 2020 a causa di dolori al ginocchio destro e gonfiore. In tale occasione, il paziente ha subito un intervento di artroscopia nella stanza 207.
+
+L'ultimo ricovero del paziente è avvenuto il 8 marzo 2023 nel reparto di Medicina Interna a causa di febbre persistente, tosse e affaticamento. Non è stato necessario alcun intervento.
+
+Il Dott. Silvestro Abate è il medico curante del paziente Benvenuto Olivetti. È possibile contattare il dottore tramite email all'indirizzo ariostoraffaello@example.com o telefonicamente al numero +39 07658863854.
+
+L'ASST DEGLI SPEDALI CIVILI DI BRESCIA è la struttura ospedaliera responsabile per i ricoveri del paziente. Si trova a BRESCIA.
+
+La presente cartella clinica ospedaliera fornisce un quadro dettagliato della storia medica del paziente Benvenuto Olivetti e le cure fornite dal Dott. Silvestro Abate durante i ricoveri ospedalieri.

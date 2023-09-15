@@ -1,0 +1,50 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Giorgio Bonino
+Data di nascita: 11 agosto 2003
+Indirizzo: Vicolo Romeo, 72
+          23020, Piateda (SO)
+
+Dottore curante: Dott. Vito Rosmini
+
+Storico del Paziente:
+
+1. Ricovero:
+   - Data: 3 settembre 2018
+   - Durata: 7 giorni
+   - Motivo: Infezione respiratoria
+   - Reparto: Pneumologia
+   - Stanza: 205
+
+Durante il ricovero, il paziente presentava sintomi quali febbre persistente, tosse secca e difficoltà respiratorie. Sono stati prescritti antibiotici e terapie per il supporto respiratorio. Il trattamento ha portato ad un miglioramento delle condizioni del paziente, che è stato dimesso dopo una settimana.
+
+2. Intervento chirurgico:
+   - Data: 28 aprile 2019
+   - Tipo di intervento: Appendicectomia
+   - Reparto: Chirurgia Generale
+   - Stanza: 302
+
+Il paziente è stato sottoposto ad un intervento chirurgico per rimuovere l'appendice infiammata. L'operazione è stata eseguita con successo e il paziente ha avuto una buona ripresa post-operatoria.
+
+3. Visita specialistica:
+   - Data: 15 gennaio 2020
+   - Tipo di visita: Cardiologia
+   - Reparto: Cardiologia
+   - Stanza: 101
+
+Durante la visita specialistica, sono stati effettuati esami come l'ecocardiogramma e l'elettrocardiogramma per valutare la salute del cuore del paziente. Non sono stati riscontrati problemi significativi e sono state fornite raccomandazioni per uno stile di vita salutare.
+
+4. Ricovero (attuale):
+   - Data: 10 ottobre 2021
+   - Durata: In corso
+   - Motivo: Polmonite
+   - Reparto: Medicina Interna
+   - Stanza: 401
+
+Attualmente, il paziente è ricoverato per trattamento di polmonite. Sono stati prescritti antibiotici e terapie per migliorare le sue condizioni respiratorie. La sua evoluzione sarà monitorata attentamente dal team medico.
+
+Rispettiamo la privacy del paziente e pertanto non forniremo ulteriori informazioni che possano comprometterla. 
+
+La struttura ospedaliera presso cui il paziente viene curato è l'Azienda Ospedaliera "S. Maria" a Terni, con sede nel comune di Terni. 
+
+Il paziente è seguito dal Dott. Vito Rosmini, medico specializzato nell'area di competenza.

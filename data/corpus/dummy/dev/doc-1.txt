@@ -1,0 +1,23 @@
+Ammissione Ospedaliera
+
+Paziente: Tiziano Molesini
+Data di nascita: 14/02/1962
+Codice Fiscale: NTTGBL89P45L506B
+
+Il paziente Tiziano Molesini è stato ricoverato presso l'AZ. COMPL. OSP. S.FILIPPO NERI di Roma il giorno 10/12/2020.
+
+Motivo del ricovero:
+T. M. è stato ammesso in ospedale a causa di una grave forma di polmonite, che ha causato difficoltà respiratorie e febbre persistente. Questa condizione ha richiesto un ricovero ospedaliero per fornire le cure e il monitoraggio adeguati.
+
+Sintomi:
+I sintomi principali presentati dal paziente includono tosse persistente con espettorato denso, dispnea, affaticamento e febbre alta. Tali sintomi sono tipici di un'infezione polmonare grave come la polmonite.
+
+Scelte mediche:
+Dopo una valutazione iniziale, il Dottor Alphons Fanucci, specialista in malattie respiratorie, ha prescritto un trattamento con antibiotici ad ampio spettro per combattere l'infezione polmonare. Inoltre, è stato avviato un monitoraggio costante dei parametri vitali e una terapia di supporto respiratorio per garantire un'adeguata ossigenazione.
+
+Stanza: 
+Il paziente Tiziano Molesini è stato assegnato alla stanza 212 del reparto di pneumologia. La stanza offre un ambiente confortevole e riservato, adeguato per garantire il recupero ottimale del paziente.
+
+Durante il suo ricovero, il paziente è stato seguito da un team medico multidisciplinare composto da infermieri, fisioterapisti e specialisti pneumologi, al fine di fornire il miglior trattamento possibile per la sua condizione.
+
+Si auspica che il paziente Tiziano Molesini migliori rapidamente e si riprenda completamente con l'aiuto delle cure e dell'assistenza fornite nell'ospedale.

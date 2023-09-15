@@ -1,0 +1,27 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Signora Berenice Riccati
+Data di nascita: 24-09-1988
+Indirizzo: Vicolo Cesare, 87 Piano 4, 23011 Ardenno (SO)
+Telefono: +39 0371957963
+Codice Fiscale: SPDRMR73P65E169D
+
+Dottore curante: Dott.ssa Nadia Guidotti
+
+Struttura Ospedaliera: I.N.R.C.A.- PRESIDIO DI CASATENOVO, CASATENOVO
+
+Storia del Paziente:
+La signora Berenice Riccati è una paziente che ha avuto vari ricoveri presso il nostro ospedale. 
+Durante il primo ricovero, avvenuto il 10-05-2015, la paziente presentava sintomi di febbre alta e tosse persistente. Dopo un'approfondita visita medica, è stato necessario eseguire un intervento di rimozione delle tonsille per risolvere il problema. 
+
+Successivamente, nel secondo ricovero, avvenuto il 22-11-2017, la signora Riccati è stata ricoverata a causa di forti dolori addominali e nausea. Dopo un'attenta diagnosi, è stato eseguito un intervento di appendicectomia per rimuovere l'appendice infiammata.
+
+Nel terzo ricovero, avvenuto il 05-03-2020, la paziente ha presentato sintomi di affaticamento e difficoltà respiratorie. Dopo un'analisi approfondita, è stato necessario eseguire un intervento di bypass coronarico per risolvere il problema al cuore.
+
+La signora Riccati è stata spostata in diverse stanze durante i suoi ricoveri, rispettivamente nel reparto di Otorinolaringoiatria durante il primo ricovero, nel reparto di Chirurgia Generale durante il secondo ricovero e nel reparto di Cardiologia durante il terzo ricovero.
+
+La Dott.ssa Nadia Guidotti è la medico curante della signora Riccati. È una professionista altamente qualificata e attenta alle esigenze e al benessere dei suoi pazienti. La Dott.ssa Guidotti si occupa di seguire attentamente la storia clinica della signora Riccati, fornendo le cure necessarie e monitorando costantemente il suo stato di salute.
+
+Si ricorda che i dati personali dei pazienti sono trattati con la massima riservatezza e in conformità alle normative sulla privacy.
+
+Restiamo a disposizione per ulteriori informazioni e per fornire ogni supporto medico necessario.

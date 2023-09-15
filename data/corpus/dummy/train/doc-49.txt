@@ -1,0 +1,36 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Antonietta Tomaselli
+Data di Nascita: 07-08-1999
+Indirizzo: Borgo Comboni, 49 Appartamento 3, 46042, Castel Goffredo (MN)
+Telefono: 339296330
+Codice Fiscale: PRTDRD29D59A436S
+
+Medico Curante: Dott.ssa Zaira Spanevello
+Struttura Ospedaliera: ASST DI LECCO - LECCO
+
+Storico del Paziente:
+
+Ricoveri:
+1. Data: 22-05-2015, Durata: 5 giorni, Reparto: Medicina Interna, Stanza: 203
+   Motivo del Ricovero: Febbre alta e sintomi respiratori
+   Interventi Effettuati: Esami del sangue, Radiografia al torace
+
+2. Data: 08-11-2017, Durata: 3 giorni, Reparto: Ortopedia, Stanza: 107
+   Motivo del Ricovero: Frattura alla gamba sinistra a causa di un incidente stradale
+   Interventi Effettuati: Gesso alla gamba, Radiografia
+
+Sintomi:
+- Febbre alta persistente: Dal 20-05-2015 al 22-05-2015
+- Tosse secca e dolore al petto: Dal 20-05-2015 al 25-05-2015
+- Affaticamento e debolezza muscolare: Dal 20-05-2015 al 25-05-2015
+- Difficoltà respiratorie: Dal 20-05-2015 al 26-05-2015
+- Dolore intenso alla gamba sinistra: Dal 06-11-2017 al 08-11-2017
+
+Interventi:
+- Esami del sangue: Effettuati il 22-05-2015 durante il primo ricovero, per la diagnosi della causa della febbre alta e dei sintomi respiratori
+- Radiografia al torace: Effettuata il 22-05-2015 durante il primo ricovero, per verificare eventuali patologie polmonari
+- Gesso alla gamba sinistra: Applicato il 08-11-2017 durante il secondo ricovero, per immobilizzare la frattura e favorire il processo di guarigione
+- Radiografia: Effettuata il 08-11-2017 durante il secondo ricovero, per valutare l'estensione e la gravità della frattura alla gamba sinistra
+
+Speriamo che queste informazioni cliniche siano esaustive per il paziente Antonietta Tomaselli e desideriamo una pronta guarigione.

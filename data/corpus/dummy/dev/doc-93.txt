@@ -1,0 +1,49 @@
+Cartella Clinica Ospedaliera
+
+-------------------------------------------------------------------------------------------------------------------------------
+Paziente: Gelsomina Marangoni
+
+Data di Nascita: 26 ottobre 1924
+
+Indirizzo: Borgo Nico, 15, 14047 Mombercelli (AT)
+
+-------------------------------------------------------------------------------------------------------------------------------
+Dottore Curante: Dott.ssa Giulietta Bignami
+
+Ospedale: IRCCS AOU S.MARTINO - IST, Genova
+
+Telefono Dottore: +39 0850985360
+
+-------------------------------------------------------------------------------------------------------------------------------
+Storico del Paziente:
+
+1. Ricovero:
+   - Data: 10 giugno 2010
+   - Reparto: Cardiologia
+   - Stanza: 302
+   - Sintomi: Dolore al petto, mancanza di respiro
+   - Intervento: Angioplastica coronarica
+   
+2. Ricovero:
+   - Data: 5 aprile 2015
+   - Reparto: Ortopedia
+   - Stanza: 405
+   - Sintomi: Frattura composta al femore destro
+   - Intervento: Riduzione e fissazione interna
+   
+3. Ricovero:
+   - Data: 22 marzo 2018
+   - Reparto: Gastroenterologia
+   - Stanza: 509
+   - Sintomi: Dolore addominale persistente, nausea
+   - Intervento: Endoscopia digestiva
+   
+4. Ricovero:
+   - Data: 17 settembre 2021
+   - Reparto: Geriatria
+   - Stanza: 701
+   - Sintomi: Confusione mentale, difficoltà nella deambulazione
+   - Intervento: Non richiesto, trattamento farmacologico
+
+-------------------------------------------------------------------------------------------------------------------------------
+Nota: Le informazioni cliniche riportate sono puramente immaginarie e non corrispondono a dati reali.

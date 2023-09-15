@@ -1,0 +1,38 @@
+T1	Name 67 76	Benvenuto
+T2	ID 43 51	36026241
+T3	Name 95 103	Olivetti
+T4	Date 130 144	13 maggio 2007
+T5	Address 165 219	Piazza Luisa, 61 Appartamento 57, 09124, Cagliari (CA)
+T6	Phone 239 250	03631887432
+T7	Email 267 294	tizianoendrizzi@example.com
+T8	Name 316 325	Silvestro
+T9	Name 343 348	Abate
+T10	Email 364 392	ariostoraffaello@example.com
+T11	Phone 411 426	+39 07658863854
+T12	Organization 451 487	ASST DEGLI SPEDALI CIVILI DI BRESCIA
+T13	Address 502 509	BRESCIA
+T14	Date 561 575	5 gennaio 2018
+T15	Date 728 745	15 settembre 2020
+T16	Date 875 887	8 marzo 2023
+T17	Name 1050 1068	Benvenuto Olivetti
+T18	Internal_Location 1149 1171	reparto di Cardiologia
+T19	Date 1330 1344	5 gennaio 2018
+T20	Internal_Location 1359 1362	305
+T21	Date 1438 1455	15 settembre 2020
+T22	Internal_Location 1589 1592	207
+T23	Date 1640 1652	8 marzo 2023
+T24	Internal_Location 1657 1684	reparto di Medicina Interna
+T25	Name 1790 1805	Silvestro Abate
+T26	Name 1839 1857	Benvenuto Olivetti
+T27	Phone 1978 1993	+39 07658863854
+T28	Email 1921 1949	ariostoraffaello@example.com
+T29	Organization 1998 2034	ASST DEGLI SPEDALI CIVILI DI BRESCIA
+T30	Address 2115 2122	BRESCIA
+T31	Name 2230 2248	Benvenuto Olivetti
+T32	Name 2277 2292	Silvestro Abate
+T33	Internal_Location 922 925	402
+T34	Internal_Location 897 913	Medicina Interna
+T35	Internal_Location 585 596	Cardiologia
+T36	Internal_Location 605 608	305
+T37	Internal_Location 755 764	Ortopedia
+T38	Internal_Location 773 776	207

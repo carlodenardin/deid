@@ -1,0 +1,33 @@
+Cartella Clinica Ospedaliera
+
+Paziente:
+Nome: Marina
+Cognome: Iannotti
+Data di Nascita: 9 marzo 2001
+Indirizzo: Canale Raffaellino, 6 Appartamento 98, 31030, Valla' (TV)
+Telefono: 3779971370
+Codice Fiscale: TMSGNN00T22F538J
+
+Medico Curante:
+Dott.ssa Michelangelo Ovadia
+Email: bersanisole@example.net
+Telefono: +39 0342212654
+
+Struttura Ospedaliera:
+Azienda Ospedaliero-Universitaria Pisana
+Municipio: Pisa
+
+Storia del Paziente:
+Marina Iannotti è stata ricoverata due volte presso l'Azienda Ospedaliero-Universitaria Pisana. Il suo primo ricovero è avvenuto il 25 giugno 2018, a causa di forti dolori addominali. Durante il ricovero, sono stati effettuati numerosi esami, tra cui ecografie e esami del sangue, al fine di diagnosticare la causa dei sintomi presentati dalla paziente.
+
+Successivamente, Marina è stata sottoposta a un intervento chirurgico d'urgenza il 30 giugno 2018, per rimuovere un'appendicite infiammata. L'intervento è stato eseguito con successo dal Dott.ssa Michelangelo Ovadia e il paziente ha mostrato un rapido recupero post-operatorio.
+
+Il secondo ricovero di Marina è avvenuto il 15 settembre 2020, a seguito di un incidente stradale. La paziente ha riportato una frattura alla gamba destra e è stata immediatamente sottoposta a un intervento chirurgico per stabilizzare la frattura. Durante il ricovero, sono stati svolti numerosi controlli e fisioterapie al fine di favorire la guarigione e il recupero delle funzionalità motorie.
+
+Durante entrambi i ricoveri, Marina è stata collocata nella stanza numero 302 del reparto di Chirurgia, che si trova al terzo piano dell'Azienda Ospedaliero-Universitaria Pisana.
+
+I sintomi riportati da Marina nel corso dei suoi ricoveri includono forti dolori addominali nel primo caso e dolore e impossibilità di utilizzare la gamba destra nel secondo caso.
+
+La Dott.ssa Michelangelo Ovadia ha seguito il paziente durante entrambi i ricoveri, coordinando le cure e gli interventi necessari per garantire il miglioramento della salute di Marina.
+
+Si raccomanda di mantenere riservate le informazioni personali del paziente, al fine di preservare la sua privacy e conformarsi alle normative sulla protezione dei dati personali.

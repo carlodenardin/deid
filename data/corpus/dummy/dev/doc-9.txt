@@ -1,0 +1,49 @@
+Cartella Clinica Ospedaliera
+
+Paziente:
+- ID Paziente: 55443094
+- Nome Paziente: Rosina
+- Cognome Paziente: Berlusconi
+- Data di Nascita Paziente: 25/01/1977
+- Indirizzo Paziente: Contrada Tonia, 633
+  90033, Chiusa Sclafani (PA)
+- Telefono Paziente: +39 38817653781
+- Codice Fiscale Paziente: SLRNDA92A02L978I
+
+Medico:
+- Nome Medico: Dott.ssa Livia
+- Cognome Medico: Dibiasi
+- Email Medico: lazzaroioppi@example.org
+- Telefono Medico: +39 3448086910
+- Struttura Ospedaliera: ASST DI MANTOVA, MANTOVA
+
+Storico del Paziente:
+
+1. Ricovero: 10/03/2015 - 17/03/2015
+   - Reparto: Cardiologia
+   - Stanza: 206
+   - Sintomi: Dispnea, dolore al petto
+   - Interventi: Elettrocardiogramma, Ecocardiogramma
+
+2. Ricovero: 05/07/2016 - 20/07/2016
+   - Reparto: Ortopedia
+   - Stanza: 309
+   - Sintomi: Dolore al ginocchio, difficoltà di deambulazione
+   - Interventi: Risonanza magnetica, Artroscopia al ginocchio sinistro
+
+3. Ricovero: 02/02/2018 - 10/02/2018
+   - Reparto: Pneumologia
+   - Stanza: 403
+   - Sintomi: Tosse persistente, febbre
+   - Interventi: Radiografia torace, Tracheobroncoscopia
+
+Storia del Paziente:
+Il paziente Rosina Berlusconi è nata il 25/01/1977 e attualmente risiede in Contrada Tonia, 633 a Chiusa Sclafani (PA). Ha presentato sintomi cardiaci nel marzo 2015 e è stata ricoverata nel reparto di Cardiologia dell'ASST DI MANTOVA. Durante il ricovero, ha manifestato dispnea e dolore al petto. Sono stati effettuati un elettrocardiogramma e un ecocardiogramma per valutarne la condizione cardiaca.
+
+Successivamente, nel luglio 2016, la paziente è stata ricoverata nel reparto di Ortopedia per problemi al ginocchio. Ha riportato dolore e difficoltà di deambulazione. Sono stati eseguiti una risonanza magnetica e un intervento di artroscopia al ginocchio sinistro per diagnosticare e trattare il problema.
+
+Nel febbraio 2018, Rosina è stata ricoverata nel reparto di Pneumologia per sintomi respiratori. Ha presentato tosse persistente e febbre. Durante il ricovero, sono state effettuate una radiografia del torace e una tracheobroncoscopia per identificare eventuali anomalie polmonari.
+
+Il medico curante della paziente è la Dott.ssa Livia Dibiasi, che lavora presso l'ASST DI MANTOVA. Si prega di contattare il medico al numero +39 3448086910 per ulteriori informazioni sulla cura del paziente.
+
+Si prega di mantenere riservate tutte le informazioni personali del paziente per garantire la privacy.

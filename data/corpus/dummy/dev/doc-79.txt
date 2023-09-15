@@ -1,0 +1,62 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Maria Morpurgo
+Nata il: 06/03/1982
+Indirizzo: Contrada Ranieri, 0, 00041, Cecchina Stazione (RM)
+
+Storia del Paziente:
+Maria Morpurgo, una donna di 38 anni, è stata ricoverata diverse volte presso l'Azienda Universitaria Policlinico di Napoli. La sua cartella clinica riporta un dettagliato storico dei suoi ricoveri, sintomi e interventi.
+
+Ricoveri:
+1. Data: 25/08/2005, Durata: 5 giorni
+   - Reparto: Cardiologia
+   - Stanza: 205
+   - Motivo: Maria è stata ricoverata a causa di forti dolori al petto e mancanza di respiro. Dopo una serie di esami, è stato diagnosticato un attacco di cuore lieve. È stato eseguito un intervento per liberare un'arteria ostruita e le è stato prescritto un periodo di riposo.
+
+2. Data: 02/06/2010, Durata: 3 giorni
+   - Reparto: Ortopedia
+   - Stanza: 312
+   - Motivo: Maria ha subito una caduta accidentale che ha causato la frattura del braccio destro. È stata sottoposta a un intervento chirurgico per fissare la frattura con una placca e dei perni metallici. Dopo l'intervento, è stata seguita da un programma di riabilitazione per recuperare la piena funzionalità del braccio.
+
+3. Data: 14/09/2015, Durata: 10 giorni
+   - Reparto: Gastroenterologia
+   - Stanza: 405
+   - Motivo: Maria ha manifestato sintomi di forti dolori addominali, nausea e perdita di peso improvvisa. Sono stati eseguiti numerosi esami per determinare la causa dei sintomi. Alla fine è stata diagnosticata con una forma lieve di colite ulcerosa. È stata trattata con farmaci specifici e ha seguito una dieta mirata.
+
+Interventi:
+1. Data: 25/08/2005
+   - Tipo di Intervento: Angioplastica coronarica
+   - Descrizione: Durante l'attacco di cuore, è stato eseguito un intervento per liberare un'arteria ostruita. L'intervento è stato eseguito con successo e ha contribuito a ripristinare la circolazione sanguigna al cuore.
+
+2. Data: 02/06/2010
+   - Tipo di Intervento: Riduzione e fissazione di frattura
+   - Descrizione: Sulla base di una radiografia, è stato deciso di eseguire un intervento chirurgico per fissare la frattura del braccio destro. La procedura ha coinvolto l'utilizzo di placche e perni metallici per stabilizzare l'osso e favorire la guarigione.
+
+Sintomi:
+1. Dolore al petto e mancanza di respiro
+   - Data Inizio: 25/08/2005
+   - Data Fine: 25/08/2005
+
+2. Frattura del braccio destro
+   - Data Inizio: 02/06/2010
+   - Data Fine: 02/06/2010
+
+3. Forti dolori addominali, nausea e perdita di peso improvvisa
+   - Data Inizio: 14/09/2015
+   - Data Fine: 14/09/2015
+
+Medico Curante: Dott. Camillo Zanazzo
+
+Informazioni Medico:
+- Nome: Camillo
+- Cognome: Zanazzo
+- Specializzazione: Cardiologia
+- Struttura Ospedaliera: Azienda Universitaria Policlinico di Napoli
+- Reparto: Cardiologia
+- Stanza Ufficio: 201
+
+Stato Attuale del Paziente:
+Al momento, Maria Morpurgo sta godendo di buona salute e non ha riportato alcun sintomo o problema che richieda un ricovero ospedaliero. Rimane sotto la cura e il monitoraggio regolare del Dott. Camillo Zanazzo presso l'Azienda Universitaria Policlinico di Napoli.
+
+Nota Importante:
+Le informazioni riportate in questa cartella clinica sono strettamente confidenziali e devono essere trattate come tali. La privacy del paziente è garantita in conformità alle leggi sulla protezione dei dati.

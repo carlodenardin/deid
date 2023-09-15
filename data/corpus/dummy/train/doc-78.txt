@@ -1,0 +1,32 @@
+Cartella Clinica Ospedaliera
+
+Paziente:
+Nome completo: Donna Mercantini
+Data di nascita: 24/05/2018 (Età: 3 anni)
+Indirizzo: Incrocio Ennio, 8 Appartamento 13, 22032, Albese Con Cassano (CO)
+
+Dottore curante:
+Dott. Cipriano Dovara
+
+Struttura Ospedaliera:
+Azienda Ospedaliera Sant'Andrea, Roma
+
+Storia del Paziente:
+Donna Mercantini è una bimba di 3 anni che ha avuto diversi ricoveri presso l'Azienda Ospedaliera Sant'Andrea di Roma. Durante i suoi ricoveri, ha manifestato vari sintomi e ha subito diversi interventi, elencati di seguito:
+
+Ricoveri:
+1. Dal 08/06/2020 al 15/06/2020: Stanza 305, Reparto Pediatria - Ricovero per polmonite. Durante il ricovero, sono stati effettuati diversi esami e cure per alleviare i sintomi e favorire la guarigione.
+2. Dal 22/03/2021 al 27/03/2021: Stanza 412, Reparto Pediatria - Ricovero per frattura del braccio destro. È stata eseguita un'operazione chirurgica per riparare la frattura e successivamente è stata seguita una terapia riabilitativa.
+3. Dal 05/09/2022 al 09/09/2022: Stanza 205, Reparto Pediatria - Ricovero per gastroenterite. Durante il ricovero, sono state somministrate terapie farmacologiche per alleviare i sintomi e favorire la ripresa.
+
+Sintomi:
+1. Febbre alta, difficoltà respiratorie e tosse persistente durante il ricovero per polmonite.
+2. Forte dolore e limitazione dei movimenti nell'arto destro durante il ricovero per frattura del braccio.
+3. Diarrea, vomito e dolori addominali durante il ricovero per gastroenterite.
+
+Interventi:
+1. Durante il ricovero per polmonite, è stato eseguito un esame del sangue completo, una radiografia del torace e una terapia antibiotica per combattere l'infezione polmonare.
+2. Durante il ricovero per frattura del braccio, è stata effettuata un'operazione chirurgica per stabilizzare la frattura tramite l'applicazione di una placca e viti.
+3. Durante il ricovero per gastroenterite, sono stati eseguiti degli esami delle feci per identificare l'agente patogeno responsabile e sono state somministrate terapie idratanti e antibiotiche.
+
+Si raccomanda di monitorare attentamente lo stato di salute di Donna Mercantini e garantire un'adeguata assistenza medica in caso di necessità.

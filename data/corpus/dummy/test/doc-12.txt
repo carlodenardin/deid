@@ -1,0 +1,24 @@
+CARTA CLINICA OSPEDALIERA
+
+Identificazione Paziente:
+    - Nome: Simonetta
+    - Cognome: Cicala
+    - Data di Nascita: 29/09/2007
+    - Indirizzo: Via Bombieri, 769 Piano 0, 20004, Arluno (MI)
+    - Telefono: +39 3552054342
+    - Codice Fiscale: FLRSTN54D61L239R
+
+Dati Medico Curante:
+    - Dott.ssa Clelia Gentili
+    - Email: binaghiarnaldo@example.com
+    - Telefono: +39 0884822383
+    - Struttura Ospedaliera: Policlinico S. Matteo - Pavia, Pavia
+
+Storia del Paziente:
+Simonetta Cicala ha avuto diversi ricoveri presso il Policlinico S. Matteo di Pavia. Durante il primo ricovero, avvenuto nel mese di giugno 2018, è stata ospitata nella stanza 205 del reparto di Chirurgia Generale. Simonetta si era presentata in ospedale a causa di forti dolori addominali e nausea persistente. Dopo un'attenta valutazione del caso, il Dott.ssa Gentili ha diagnosticato una colecistite acuta e ha programmato l'intervento chirurgico per la rimozione della cistifellea. L'intervento si è svolto con successo il 18/06/2018.
+
+Successivamente, Simonetta è stata ricoverata nuovamente presso il Policlinico S. Matteo nel mese di febbraio 2020. Questa volta è stata assegnata alla stanza 315 del reparto di Cardiologia. La paziente aveva manifestato sintomi di affaticamento cronico, dispnea e dolore toracico. Dopo una serie di esami clinici approfonditi, è emersa la presenza di una grave cardiopatia ischemica che richiedeva un intervento di bypass coronarico. Il giorno successivo, il 05/02/2020, è stato eseguito l'intervento chirurgico dal Dott.ssa Gentili e dal suo team.
+
+Recentemente, Simonetta è stata ricoverata per un terzo episodio, stavolta nel mese di aprile 2021. È stata inserita nella stanza 112 del reparto di Ortopedia. La giovane paziente si era fratturata il femore durante una caduta accidentale. Il Dott.ssa Gentili ha operato con successo per ripristinare l'integrità dell'osso il 10/04/2021.
+
+In conclusione, Simonetta Cicala ha avuto tre ricoveri presso il Policlinico S. Matteo di Pavia, con diagnosi e interventi specifici per ciascun episodio. La paziente è stata trattata con successo grazie alle competenze e alla cura del Dott.ssa Clelia Gentili e del suo team medico.

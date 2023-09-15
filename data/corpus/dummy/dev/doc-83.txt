@@ -1,0 +1,42 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Sebastiano Zaguri
+Data di Nascita: 20 settembre 1956
+Indirizzo: Stretto Amedeo, 86 Appartamento 2, 91018 Ulmi (TP)
+Telefono: +39 33806377181
+Codice Fiscale: CTNJCP59R67L140M
+
+Medico Curante: Dott. Giovanni Pacomio
+Struttura Ospedaliera: ASST NORD MILANO, Sesto San Giovanni
+
+Storico del Paziente:
+- Ricoveri:
+    1. Data Ricovero: 12 maggio 2010
+       Stanza: 304
+       Reparto: Cardiologia
+       Motivo Ricovero: Infarto miocardico acuto
+       Descrizione: Il paziente è stato ricoverato a seguito di un infarto miocardico acuto. Sono state effettuate misurazioni dei parametri vitali, monitoraggio e terapie farmacologiche adeguate. Durante il ricovero è stato sottoposto a esami approfonditi per valutare la gravità del danno al cuore.
+
+    2. Data Ricovero: 6 aprile 2016
+       Stanza: 207
+       Reparto: Ortopedia
+       Motivo Ricovero: Frattura del femore destro
+       Descrizione: Il paziente è stato ricoverato a seguito di una frattura del femore destro causata da una caduta accidentale. È stato sottoposto a un intervento chirurgico di riduzione e fissazione interna, seguito da un periodo di riabilitazione intensiva.
+
+- Sintomi:
+    - Dolore al petto
+      Descrizione: Il paziente ha riportato episodi di dolore al petto, accompagnati da affaticamento e respiro corto. Tali sintomi sono stati segnalati durante i ricoveri precedenti e sono stati attribuiti a problemi cardiaci.
+
+    - Dolore all'anca destra
+      Descrizione: Il paziente ha segnalato un persistente dolore all'anca destra dopo la caduta accidentale che ha causato la frattura del femore destro. È stato sottoposto a terapie di gestione del dolore e a ulteriori esami diagnostici per valutare eventuali complicanze.
+
+- Interventi:
+    1. Intervento Chirurgico al Cuore
+       Data: 20 maggio 2010
+       Descrizione: Il paziente è stato sottoposto a un intervento chirurgico di bypass coronarico per ripristinare il flusso sanguigno al cuore. L'intervento è stato eseguito con successo e il paziente si è ripreso adeguatamente.
+
+    2. Intervento Chirurgico all'Anca Destra
+       Data: 12 aprile 2016
+       Descrizione: Il paziente è stato sottoposto a un intervento chirurgico di riduzione e fissazione interna dell'anca destra fratturata. L'intervento è stato eseguito con successo e il paziente è stato avviato alla riabilitazione.
+
+Lo stato attuale del paziente è stabile, con un buon recupero dalla frattura dell'anca. Saranno necessari controlli periodici per monitorare la sua condizione cardiaca. Il Dott. Giovanni Pacomio, cardiologo presso l'ASST Nord Milano, è responsabile del trattamento medico del paziente.

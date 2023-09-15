@@ -1,0 +1,54 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Roman Tartaglia
+Data di Nascita: 9 maggio 1972
+Indirizzo: Incrocio Delle, 5, 89815, Francavilla Angitola (VV)
+Telefono: +39 0365179569
+Email: letiziagrifeo@example.net
+
+Medico Curante: Dott. Pierpaolo Pennetta
+Email: eleanorabuscetta@example.org
+Telefono: +39 032219125
+Struttura Ospedaliera: Dipartimento Rizzoli-Sicilia, BAGHERIA
+
+---
+
+STORICO DEL PAZIENTE:
+Roman Tartaglia è un paziente che ha richiesto assistenza presso il Dipartimento Rizzoli-Sicilia situato a Bagheria, in diverse occasioni nel corso degli anni.
+
+RICOVERI:
+1. Data Ricovero: 23 giugno 2010 - Reparto: Ortopedia - Stanza: 214
+   Motivo del Ricovero: Frattura scomposta alla gamba sinistra.
+
+2. Data Ricovero: 7 marzo 2015 - Reparto: Cardiologia - Stanza: 302
+   Motivo del Ricovero: Infarto acuto miocardico.
+
+3. Data Ricovero: 18 settembre 2018 - Reparto: Medicina Interna - Stanza: 109
+   Motivo del Ricovero: Polmonite.
+
+SINTOMI E DIAGNOSI:
+1. Data Visita: 18 giugno 2010 - Medico: Dott. Pierpaolo Pennetta
+   Sintomi: Dolore, gonfiore e difficoltà nel muovere la gamba sinistra.
+   Diagnosi: Frattura scomposta della tibia sinistra.
+
+2. Data Visita: 5 marzo 2015 - Medico: Dott. Pierpaolo Pennetta
+   Sintomi: Dolore toracico, mancanza di respiro, sudorazione eccessiva.
+   Diagnosi: Infarto acuto miocardico.
+
+3. Data Visita: 16 settembre 2018 - Medico: Dott. Pierpaolo Pennetta
+   Sintomi: Febbre, tosse, affaticamento generale.
+   Diagnosi: Polmonite.
+
+INTERVENTI:
+1. Data Intervento: 25 giugno 2010 - Reparto: Ortopedia
+   Tipo di Intervento: Riduzione e fissazione chirurgica della frattura alla gamba sinistra.
+
+2. Data Intervento: 8 marzo 2015 - Reparto: Cardiologia
+   Tipo di Intervento: Angioplastica coronarica con impianto di stent coronarico.
+
+3. Data Intervento: 20 settembre 2018 - Reparto: Medicina Interna
+   Tipo di Intervento: Assistenza medica per il trattamento della polmonite.
+
+---
+
+Questa è una panoramica completa del paziente Roman Tartaglia e delle sue esperienze ospedaliere presso il Dipartimento Rizzoli-Sicilia. Il dottor Pierpaolo Pennetta si è occupato delle visite, delle diagnosi e degli interventi necessari per il benessere del paziente.

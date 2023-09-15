@@ -1,0 +1,47 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Amedeo Segni
+Data di Nascita: 08/09/1929
+Indirizzo: Contrada Alberico, 97 Piano 7, 25029 Verolavecchia (BS)
+Telefono: +39 3731221735
+
+Dottore: Dott. Piermaria Petrucelli
+Struttura Ospedaliera: IRCCS OSPEDALE POLICLINICO SAN MARTINO, Genova
+
+Storico del Paziente:
+
+Ricoveri:
+1. Data: 12/05/2005
+   Motivo: Frattura del femore destro
+   Durata: 15 giorni
+   Stato al termine del ricovero: Recupero completo
+
+2. Data: 10/02/2011
+   Motivo: Infarto miocardico
+   Durata: 7 giorni
+   Stato al termine del ricovero: Dischiuso con prescrizioni mediche
+
+Sintomi:
+1. Dolori al petto: riferiti durante il ricovero del 10/02/2011
+2. Difficoltà respiratorie: riferite durante il ricovero del 10/02/2011
+
+Interventi:
+1. Intervento chirurgico al femore destro: eseguito il 13/05/2005
+   Descrizione: Riduzione e fissazione interna con l'applicazione di una placca
+
+2. Angioplastica coronarica: eseguita il 12/02/2011
+   Descrizione: Dilatazione di un'arteria coronarica ostruita mediante il posizionamento di un palloncino
+
+Il paziente è stato ricoverato in diverse stanze durante i suoi ricoveri, di seguito sono elencate le informazioni relative:
+
+1. Stanza del primo ricovero (12/05/2005):
+   - Numero Stanza: 203
+   - Reparto: Ortopedia
+
+2. Stanza del secondo ricovero (10/02/2011):
+   - Numero Stanza: 505
+   - Reparto: Cardiologia
+
+La Dott.ssa Petrucelli è il medico curante di Amedeo Segni, fornendo le cure e le prescrizioni necessarie durante i ricoveri.
+
+NOTE: Le date riportate nella cartella clinica si riferiscono al passato e non devono superare la data odierna. Gli indirizzi e le informazioni personali sono fornite a scopo illustrativo e non corrispondono a dati reali.

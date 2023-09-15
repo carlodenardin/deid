@@ -1,0 +1,28 @@
+T1	Name 32 42	Tina Gozzi
+T2	ID 87 95	46705356
+T3	Name 104 108	Tina
+T4	Name 120 125	Gozzi
+T5	Date 145 155	09-01-1947
+T6	Address 169 213	Borgo Umberto, 41 Piano 5, 07032, Nulvi (SS)
+T7	Phone 226 240	+39 3716217995
+T8	Email 250 280	gabrielebertolucci@example.com
+T9	SSN 299 315	PLLRST06A65E685D
+T10	Name 345 359	Sonia Ferrazzi
+T11	Email 369 396	bandelloumberto@example.com
+T12	Phone 409 424	+39 01658158590
+T13	Hospital 462 502	FONDAZ.IRCCS CA' GRANDA - OSPEDALE MAGGI
+T14	Address 516 522	MILANO
+T15	Name 554 564	Tina Gozzi
+T16	Name 2347 2361	Sonia Ferrazzi
+T17	Name 2409 2419	Tina Gozzi
+T18	Name 1810 1814	Tina
+T19	Name 1661 1671	Tina Gozzi
+T20	Name 1751 1765	Sonia Ferrazzi
+T21	Date 1389 1399	14-09-2022
+T22	Date 1157 1167	05-02-2019
+T23	Date 937 947	22-07-2015
+T24	Date 714 724	10-03-2010
+T25	Internal_Location 741 763	reparto di Cardiologia
+T26	Internal_Location 964 984	reparto di Ortopedia
+T27	Internal_Location 1184 1204	reparto di Oncologia
+T28	Internal_Location 1416 1437	reparto di Neurologia

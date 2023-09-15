@@ -1,0 +1,45 @@
+Cartella Clinica Ospedaliera
+
+---------------------------------------------------------
+Informazioni Paziente:
+
+Nome Paziente: Paride Altera
+Data di Nascita Paziente: 18-09-1997
+
+---------------------------------------------------------
+Informazioni Medico Curante:
+
+Dott. Lorenzo Veltroni
+
+---------------------------------------------------------
+Riepilogo Storico Paziente:
+
+1. Ricovero:
+   - Data: 22-01-2015
+   - Motivo del ricovero: Febbre persistente e mal di testa
+   - Sintomi: Febbre alta, mal di testa persistente, sensazione di spossatezza
+   - Intervento Medico: Esame del sangue, radiografia del cranio, terapia antibiotica
+
+2. Ricovero:
+   - Data: 11-05-2017
+   - Motivo del ricovero: Appendicite acuta
+   - Sintomi: Dolore addominale intenso, nausea, vomito
+   - Intervento Medico: Appendicectomia
+
+3. Ricovero:
+   - Data: 02-11-2019
+   - Motivo del ricovero: Frattura della gamba sinistra
+   - Sintomi: Dolore intenso, impossibilità di muovere la gamba
+   - Intervento Medico: Riduzione chirurgica, applicazione di fissatore esterno
+
+4. Ricovero:
+   - Data: 08-07-2021
+   - Motivo del ricovero: Infezione respiratoria
+   - Sintomi: Febbre, tosse persistente, difficoltà respiratorie
+   - Intervento Medico: Terapia antibiotica, fisioterapia respiratoria
+
+---------------------------------------------------------
+Informazioni Struttura Ospedaliera:
+
+Struttura Ospedaliera: AZIENDA OSPEDALIERA 'S. MARIA' - TERNI
+Stanza: 213 (Reparto: Medicina Interna)

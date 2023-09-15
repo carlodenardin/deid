@@ -1,0 +1,36 @@
+CARTELLA CLINICA OSPEDALIERA
+
+ID Paziente: 94308456
+Nome Paziente: Bettina
+Cognome Paziente: Babbo
+Data di Nascita Paziente: 28/10/1980 (40 anni)
+Indirizzo Paziente: Canale Pagnotto, 485 - 20016, Pero (MI)
+Telefono Paziente: +39 09636904056
+Codice Fiscale Paziente: SLGRMG66A56H437B
+
+Dott. Gianmarco Udinesi
+Email Dottore: offredidolores@example.com
+Telefono Dottore: 01848081485
+Azienda Ospedaliera di Perugia
+
+-----------------------------------------
+STORICO DEL PAZIENTE
+
+Bettina Babbo è una paziente di 40 anni, residente in Canale Pagnotto, 485, Pero (MI). Il suo codice fiscale è SLGRMG66A56H437B.
+
+Il paziente ha avuto diversi ricoveri presso l'Azienda Ospedaliera di Perugia, nel reparto di Cardiologia.
+
+Elenco dei Ricoveri:
+1. Data: 10/10/2020
+   Stanza: 54
+
+2. Data: 12/10/2021
+   Stanza: 10
+
+3. Data: 7/07/2023
+   Stanza: 21
+
+Il paziente è in cura presso il Dott. Gianmarco Udinesi, specialista in Cardiologia. Il medico si occupa di gestire le condizioni di Bettina, valutare i sintomi riportati, proporre e eseguire gli interventi necessari per il trattamento della sua patologia cardiaca.
+
+Si consiglia di continuare a monitorare attentamente lo stato di salute di Bettina e pianificare eventuali controlli periodici.
+

@@ -1,0 +1,26 @@
+T1	Name 45 56	Ivo Collodi
+T2	Date 83 93	29-11-1928
+T4	Date 254 264	15-03-2010
+T5	Internal_Location 276 287	Cardiologia
+T6	Internal_Location 468 477	Geriatria
+T7	Internal_Location 679 688	Ortopedia
+T8	Date 446 456	06-05-2014
+T9	Date 657 667	10-02-2019
+T10	Date 919 929	02-04-2010
+T11	Name 985 998	Adamo Tebaldi
+T12	Name 1095 1113	Giuliana Marchetti
+T13	Name 1224 1239	Alberto Bianchi
+T14	Date 1348 1358	12-02-2010
+T15	Date 1434 1444	05-05-2014
+T16	Date 1527 1537	08-03-2019
+T17	Name 1688 1701	Adamo Tebaldi
+T18	Email 1724 1744	yiadanza@example.com
+T19	Phone 1762 1775	+39 042479497
+T20	Hospital 1799 1828	Azienda Ospedaliera di Padova
+T21	Internal_Location 1914 1917	214
+T22	Internal_Location 1927 1936	Ortopedia
+T23	Date 1033 1043	20-05-2014
+T24	Date 1151 1161	15-03-2019
+T3	Address 114 130	Rotonda Gemma, 4
+T25	Address 131 136	21032
+T26	Address 138 151	Caravate (VA)

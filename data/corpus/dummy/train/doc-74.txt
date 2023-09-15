@@ -1,0 +1,48 @@
+Cartella Clinica Ospedaliera
+
+Paziente:
+
+Nome: Luciana
+Cognome: Civaschi
+Data di Nascita: 12 ottobre 1923
+Codice Fiscale: SKLLVR57H20F507J
+Indirizzo: Via Luigina, 40, 35131 Padova (PD)
+Telefono: +39 0705355251
+Email: fedele61@example.org
+
+Medico Curante:
+
+Dott.ssa Pellegrino Cimini
+Reparto: Oncologia
+Struttura Ospedaliera: A.O. "SAN PAOLO" - MILANO
+Telefono: 014133103
+
+Storico Paziente:
+
+Storia Paziente:
+Luciana Civaschi è una paziente anziana di 97 anni che è stata ricoverata diverse volte presso la struttura ospedaliera A.O. "SAN PAOLO" - MILANO. Il suo reparto di riferimento è l'Oncologia, dove è seguita dalla Dott.ssa Pellegrino Cimini.
+
+Ricoveri:
+1. Data Ricovero: 25 marzo 2015, Reparto: Oncologia, Stanza: 305
+Luciana è stata ricoverata per il trattamento di un tumore al seno. Durante il ricovero ha seguito un percorso terapeutico che comprendeva chemioterapia e radioterapia.
+
+2. Data Ricovero: 12 gennaio 2018, Reparto: Oncologia, Stanza: 307
+La paziente è stata ricoverata nuovamente per un peggioramento delle condizioni legate al tumore al seno. Durante questo ricovero, è stata sottoposta a intervento chirurgico per la rimozione del tumore.
+
+Sintomi:
+Luciana ha manifestato i seguenti sintomi durante il suo percorso di cura:
+- Fatica e debolezza generale
+- Dolore e gonfiore al seno
+- Perdita di appetito
+- Perdita di peso
+
+Interventi:
+1. Data Intervento: 20 aprile 2015
+Tipo di Intervento: Mastectomia
+L'intervento è stato eseguito per rimuovere il tumore al seno sinistro. Successivamente è stata avviata la terapia adiuvante.
+
+2. Data Intervento: 15 febbraio 2018
+Tipo di Intervento: Rimozione del tumore
+L'intervento è stato eseguito per rimuovere un tumore al seno che si era nuovamente sviluppato. Durante l'intervento sono state rimosse anche alcune ghiandole linfatiche interessate.
+
+Luciana Civaschi continua il suo percorso di cura presso l'Oncologia dell'A.O. "SAN PAOLO" - MILANO, sotto la supervisione della Dott.ssa Pellegrino Cimini.

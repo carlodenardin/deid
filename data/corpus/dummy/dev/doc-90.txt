@@ -1,0 +1,32 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Milena Travaglio
+Data di Nascita Paziente: 11-07-2001
+Indirizzo Paziente: Incrocio Barsanti, 37 Appartamento 68, 57030, Procchio (LI)
+Telefono Paziente: 3919752646
+Codice Fiscale Paziente: TRNPPZ76S64D421C
+
+Medico Curante: Dott.ssa Stefani Mercalli
+Reparto: Cardiologia
+Struttura Ospedaliera: C.R.O.B. - I.R.C.C.S., Rionero in Vulture
+
+Storia Clinica:
+
+- Ricoveri:
+    1. Dal 02-05-2015 al 15-05-2015: Stanza 203, Reparto Cardiologia
+    2. Dal 08-07-2018 al 15-07-2018: Stanza 105, Reparto Cardiologia
+    3. Dal 20-09-2020 al 25-09-2020: Stanza 307, Reparto Cardiologia
+
+- Sintomi:
+    1. Dolore al petto: Inizio 28-04-2015, Frequenza: Occasionale
+    2. Palpitazioni: Inizio 05-07-2018, Frequenza: Regolare
+    3. Affaticamento: Inizio 15-09-2020, Frequenza: Continua
+
+- Interventi:
+    1. Angioplastica coronarica: Data 10-05-2015, Reparto: Cardiologia, Durata: 2 ore
+    2. Elettrocardiogramma: Data 12-07-2018, Reparto: Cardiologia, Durata: 30 minuti
+    3. Ecocardiogramma: Data 22-09-2020, Reparto: Cardiologia, Durata: 45 minuti
+
+La paziente Milena Travaglio, nata il 11-07-2001, è residente all'indirizzo Incrocio Barsanti, 37 Appartamento 68, 57030, Procchio (LI). Il suo numero di telefono è 3919752646. Il suo codice fiscale è TRNPPZ76S64D421C.
+
+Il medico curante che ha seguito il paziente è la Dott.ssa Stefani Mercalli del reparto di Cardiologia presso la struttura ospedaliera C.R.O.B. - I.R.C.C.S. situata a Rionero in Vulture.

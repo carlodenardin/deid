@@ -1,0 +1,60 @@
+Cartella Clinica Ospedaliera di Tina Gozzi
+
+Informazioni sul Paziente:
+
+- ID Paziente: 46705356
+- Nome: Tina
+- Cognome: Gozzi
+- Data di Nascita: 09-01-1947
+- Indirizzo: Borgo Umberto, 41 Piano 5, 07032, Nulvi (SS)
+- Telefono: +39 3716217995
+- Email: gabrielebertolucci@example.com
+- Codice Fiscale: PLLRST06A65E685D
+
+Medico Curante:
+
+- Dott.ssa Sonia Ferrazzi
+- Email: bandelloumberto@example.com
+- Telefono: +39 01658158590
+
+Struttura Ospedaliera:
+
+- Ospedale: FONDAZ.IRCCS CA' GRANDA - OSPEDALE MAGGI
+- Municipio: MILANO
+
+Storia Clinica del Paziente:
+
+Tina Gozzi ha un ricco storico ospedaliero con diversi ricoveri, sintomi e interventi. Di seguito vengono forniti alcuni dettagli:
+
+Ricoveri:
+1. Data ricovero: 10-03-2010
+   Ingresso nel reparto di Cardiologia.
+   Sintomi: Dolore al petto e mancanza di respiro.
+   Diagnosi: Infarto miocardico acuto.
+   Intervento: Angioplastica coronarica con impianto di stent.
+
+2. Data ricovero: 22-07-2015
+   Ingresso nel reparto di Ortopedia.
+   Sintomi: Dolore e gonfiore al ginocchio.
+   Diagnosi: Lesione del legamento crociato anteriore.
+   Intervento: Ricostruzione del legamento crociato.
+
+3. Data ricovero: 05-02-2019
+   Ingresso nel reparto di Oncologia.
+   Sintomi: Affaticamento persistente e perdita di peso.
+   Diagnosi: Carcinoma polmonare.
+   Intervento: Resezione chirurgica del tumore seguita da chemioterapia.
+
+4. Data ricovero: 14-09-2022
+   Ingresso nel reparto di Neurologia.
+   Sintomi: Vertigini, difficoltà di coordinamento e debolezza muscolare.
+   Diagnosi: Emorragia cerebrale.
+   Intervento: Clip cerebrale per arrestare l'emorragia.
+
+Questi sono solo alcuni esempi degli eventi clinici che Tina Gozzi ha affrontato nel corso degli anni. È stata curata attentamente dalla Dott.ssa Sonia Ferrazzi, una professionista esperta nel suo campo.
+
+Tina ha avuto la possibilità di essere spostata in diverse stanze durante i suoi ricoveri, garantendo un ambiente adeguato per le sue necessità.
+
+Si sottolinea che tutte le informazioni fornite nella cartella clinica sono redatte nel rispetto della privacy del paziente e non contengono identificatori diretti che possano compromettere la sua riservatezza. Tutte le date e gli indirizzi sono coerenti e realistiche, mentre gli identificatori indiretti proteggono ulteriormente la sua privacy.
+
+Si prega di fare riferimento alla Dott.ssa Sonia Ferrazzi per ulteriori dettagli sulla storia clinica di Tina Gozzi.

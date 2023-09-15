@@ -1,0 +1,37 @@
+Cartella Clinica Ospedaliera
+
+Paziente:
+Nome: Marisa
+Cognome: Pagliaro
+Data di Nascita: 7 luglio 1944
+Indirizzo: Borgo Salieri, 2 Piano 3, 17040, Mioglia (SV)
+Telefono: +39 05843464646
+Email: bondumiercostanzo@example.com
+
+Medico:
+Nome: Dott.ssa Giovanna
+Cognome: Baracca
+Email: baglionigreco@example.net
+Telefono: +39 03415069523
+
+Struttura Ospedaliera: AZ. OSPEDAL. S. CROCE E CARLE, CUNEO
+
+Storia del Paziente:
+
+Marisa Pagliaro è un paziente che ha avuto diversi ricoveri presso l'ospedale AZ. OSPEDAL. S. CROCE E CARLE di Cuneo. Durante il suo primo ricovero, avvenuto il 25 settembre 2010, è stato necessario intervenire chirurgicamente a causa di una frattura del femore sinistro. L'intervento è stato eseguito dal Dott. Giovanni Rossi.
+
+Successivamente, il 10 gennaio 2013, Marisa è stata ricoverata a causa di un'infezione respiratoria. Durante il suo periodo di degenza, è stata assistita dalla Dott.ssa Laura Bianchi, che ha prescritto terapie antibiotiche e controlli periodici.
+
+Il paziente è stato nuovamente ricoverato il 5 novembre 2016 per un intervento di bypass coronarico. L'intervento è stato eseguito dal Dott. Marco De Luca e ha richiesto un periodo di degenza di circa due settimane.
+
+Nel corso degli anni, Marisa ha presentato diversi sintomi e disturbi, tra cui:
+
+- Febbre persistente e dolori muscolari nel marzo 2012. Dopo una serie di esami e analisi del sangue, è stato diagnosticato un'infezione virale e sono state prescritte terapie sintomatiche.
+- Forte mal di testa e vertigini ricorrenti nel settembre 2014. Dopo una visita neurologica, è stata diagnosticata una forma di emicrania e sono state prescritte terapie preventive e antidolorifici specifici.
+- Problemi gastrointestinali nel maggio 2018. Dopo una gastroscopia e una colonscopia, Marisa è stata diagnosticata con una gastrite cronica e un'ernia iatale. È stata quindi sottoposta a terapie farmacologiche e consigliata una dieta specifica.
+
+Marisa è una paziente che ha necessitato di cure e attenzioni per diverse patologie nel corso degli anni. Grazie all'impegno e alla competenza del suo medico curante, la Dott.ssa Giovanna Baracca, è stata seguita nel miglior modo possibile. La Dott.ssa Baracca ha dimostrato grande professionalità nel valutare e gestire i sintomi e le necessità della paziente, contribuendo al suo benessere e recupero.
+
+Il numero della stanza e il reparto in cui è stata ospitata Marisa durante i suoi ricoveri varia in base alla disponibilità e alle esigenze dell'ospedale. Ad esempio, durante il primo ricovero per la frattura del femore, Marisa è stata assegnata alla stanza n. 207 del reparto Ortopedia. Durante gli altri ricoveri, le stanze e i reparti assegnati possono essere consultati nei registri dell'ospedale.
+
+Si prega di rispettare la privacy dei pazienti e di utilizzare le informazioni qui riportate solo a scopo di illustrazione.

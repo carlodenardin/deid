@@ -1,0 +1,51 @@
+Cartella clinica ospedaliera
+
+ID Paziente: 14369629
+Nome Paziente: Dante
+Cognome Paziente: Comboni
+Data di Nascita Paziente: 05-07-1971 (Età: 50 anni)
+Indirizzo Paziente: Strada Martina, 65 Appartamento 83, 20002 Ossona (MI)
+Telefono Paziente: 08833507618
+Email Paziente: drusosandra@example.org
+
+Nome Dottore: Dott. Pierpaolo
+Cognome Dottore: Casellati
+Email Dottore: vtartini@example.org
+Telefono Dottore: +39 0152780920
+Struttura Ospedaliera: OSPEDALE MAURIZIANO UMBERTO I - TORINO
+
+Storico del Paziente Dante Comboni:
+
+1. Ricovero:
+   - Data: 10-03-2010
+   - Durata: 5 giorni
+   - Reparto: Cardiologia
+   - Stanza: 305
+   - Sintomi: Palpitazioni, affaticamento, dolore toracico
+   - Intervento: Angioplastica coronarica
+
+2. Ricovero:
+   - Data: 05-09-2014
+   - Durata: 7 giorni
+   - Reparto: Ortopedia
+   - Stanza: 209
+   - Sintomi: Frattura alla gamba sinistra
+   - Intervento: Riduzione chiusa e fissazione interna
+
+3. Ricovero:
+   - Data: 18-06-2019
+   - Durata: 3 giorni
+   - Reparto: Otorinolaringoiatria
+   - Stanza: 122
+   - Sintomi: Otite, perdita dell'udito
+   - Intervento: Timpanoplastica
+
+4. Ricovero:
+   - Data: 25-11-2022
+   - Durata: In corso
+   - Reparto: Medicina Interna
+   - Stanza: 421
+   - Sintomi: Febbre, tosse persistente, difficoltà respiratorie
+   - Intervento: Non ancora effettuato
+
+Il paziente Dante Comboni è un uomo di 50 anni residente a Ossona (MI). Ha avuto diversi ricoveri ospedalieri in passato: uno presso la Cardiologia nel 2010 per un intervento di angioplastica coronarica, uno presso l'Ortopedia nel 2014 per una frattura alla gamba sinistra trattata con riduzione chiusa e fissazione interna, e uno presso l'Otorinolaringoiatria nel 2019 per un intervento di timpanoplastica. Attualmente, Dante è ricoverato presso il reparto di Medicina Interna per sintomi influenzali. Il suo medico curante è il Dott. Pierpaolo Casellati, che lavora presso l'Ospedale Mauriziano Umberto I a Torino.

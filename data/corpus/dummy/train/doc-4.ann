@@ -1,0 +1,34 @@
+T1	Name 40 55	Roman Tartaglia
+T2	Date 73 86	9 maggio 1972
+T3	Address 98 149	Incrocio Delle, 5, 89815, Francavilla Angitola (VV)
+T4	Phone 160 174	+39 0365179569
+T5	Email 182 207	letiziagrifeo@example.net
+T6	Name 231 249	Pierpaolo Pennetta
+T7	Email 257 285	eleanorabuscetta@example.org
+T8	Phone 296 309	+39 032219125
+T9	Care_Institute 333 361	Dipartimento Rizzoli-Sicilia
+T10	Address 363 371	BAGHERIA
+T11	Name 400 415	Roman Tartaglia
+T12	Care_Institute 468 496	Dipartimento Rizzoli-Sicilia
+T13	Address 507 515	Bagheria
+T14	Date 589 603	23 giugno 2010
+T15	Date 722 734	7 marzo 2015
+T16	Internal_Location 746 757	Cardiologia
+T17	Internal_Location 615 624	Ortopedia
+T18	Internal_Location 635 638	214
+T19	Internal_Location 768 771	302
+T20	Date 841 858	18 settembre 2018
+T21	Internal_Location 870 886	Medicina Interna
+T22	Internal_Location 897 900	109
+T23	Name 1004 1022	Pierpaolo Pennetta
+T24	Name 1196 1214	Pierpaolo Pennetta
+T25	Name 1378 1396	Pierpaolo Pennetta
+T26	Internal_Location 1531 1540	Ortopedia
+T27	Internal_Location 1679 1690	Cardiologia
+T28	Internal_Location 1823 1839	Medicina Interna
+T29	Care_Institute 2030 2058	Dipartimento Rizzoli-Sicilia
+T30	Name 2070 2088	Pierpaolo Pennetta
+T31	Name 1969 1984	Roman Tartaglia
+T32	Date 1505 1519	25 giugno 2010
+T33	Date 1655 1667	8 marzo 2015
+T34	Date 1794 1811	20 settembre 2018

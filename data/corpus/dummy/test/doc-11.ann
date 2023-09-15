@@ -1,0 +1,41 @@
+T1	ID 43 51	14369629
+T2	Name 67 72	Dante
+T3	Name 91 98	Comboni
+T4	Date 125 135	05-07-1971
+T5	Age 142 149	50 anni
+T6	Address 171 224	Strada Martina, 65 Appartamento 83, 20002 Ossona (MI)
+T7	Phone 244 255	08833507618
+T8	Email 272 295	drusosandra@example.org
+T9	Name 317 326	Pierpaolo
+T10	Name 344 353	Casellati
+T11	Email 369 389	vtartini@example.org
+T12	Phone 408 422	+39 0152780920
+T13	Hospital 446 484	OSPEDALE MAURIZIANO UMBERTO I - TORINO
+T14	Name 507 520	Dante Comboni
+T15	Date 547 557	10-03-2010
+T16	Date 571 579	5 giorni
+T17	Internal_Location 619 622	305
+T18	Date 749 759	05-09-2014
+T19	Date 773 781	7 giorni
+T20	Internal_Location 819 822	209
+T21	Internal_Location 1027 1030	122
+T22	Date 946 956	18-06-2019
+T23	Date 970 978	3 giorni
+T24	Date 1129 1139	25-11-2022
+T25	Internal_Location 1206 1209	421
+T26	Date 1153 1161	In corso
+T27	Name 1327 1340	Dante Comboni
+T28	Age 1354 1361	50 anni
+T29	Address 1374 1385	Ossona (MI)
+T30	Date 1467 1471	2010
+T31	Date 1546 1550	2014
+T32	Date 1680 1684	2019
+T33	Name 1736 1741	Dante
+T34	Name 1851 1870	Pierpaolo Casellati
+T35	Hospital 1892 1930	Ospedale Mauriziano Umberto I a Torino
+T36	Internal_Location 594 605	Cardiologia
+T37	Internal_Location 796 805	Ortopedia
+T38	Internal_Location 993 1013	Otorinolaringoiatria
+T39	Internal_Location 1176 1192	Medicina Interna
+T40	Internal_Location 1653 1675	l'Otorinolaringoiatria
+T41	Internal_Location 1765 1784	reparto di Medicina

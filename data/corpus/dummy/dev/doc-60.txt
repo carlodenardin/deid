@@ -1,0 +1,47 @@
+Cartella Clinica Ospedaliera - Paziente Alfio Cossiga
+
+Informazioni Paziente:
+- Nome: Alfio
+- Cognome: Cossiga
+- Data di Nascita: 09-09-1984
+- Indirizzo: Vicolo Mariana, 96, 14021, Buttigliera D'Asti (AT)
+- Telefono: +39 350555228
+- Codice Fiscale: LVRNCL19R47C390P
+
+Informazioni Medico Curante:
+- Nome: Dott.ssa Etta
+- Cognome: Quasimodo
+
+Storia del Paziente:
+Alfio Cossiga, nato il 09-09-1984, è un paziente che ha avuto diversi ricoveri presso la Struttura Ospedaliera "A.O. OSPEDALE DI CIRCOLO - MELEGNANO" situata a Vizzolo Predabissi.
+
+Ricoveri:
+1. Data: 20-03-2010
+   Reparto: Cardiologia
+   Stanza: 305
+   Motivo: Sospetta infarto, dolore al petto persistente
+
+   Durante il ricovero, sono state effettuate diverse analisi e test per valutare le condizioni del paziente. Sono stati prescritti farmaci per alleviare il dolore e monitorata la pressione arteriosa. Dopo un periodo di osservazione e monitoraggio, Alfio Cossiga è stato dimesso con raccomandazioni per il follow-up cardiologico.
+
+2. Data: 14-06-2016
+   Reparto: Ortopedia
+   Stanza: 108
+   Motivo: Frattura alla gamba sinistra
+
+   Durante il ricovero, sono stati effettuati esami radiologici per valutare l'estensione della frattura. È stato eseguito un intervento chirurgico per ripristinare l'integrità dell'osso. Alfio Cossiga ha seguito un percorso riabilitativo post-operatorio per recuperare la piena funzionalità dell'arto. Dopo un periodo di degenza, è stato dimesso con raccomandazioni per la fisioterapia.
+
+Sintomi e Interventi:
+1. Sintomi:
+   - Dolore al petto persistente
+   - Difficoltà respiratorie
+
+   Durante il ricovero in Cardiologia, Alfio Cossiga ha manifestato un persistente dolore al petto e difficoltà respiratorie. Sono state effettuate analisi del sangue, elettrocardiogrammi e monitoraggio costante per valutare la funzionalità cardiaca e respiratoria. Sono state somministrate terapie farmacologiche per il controllo del dolore e il miglioramento del respiro.
+
+2. Interventi:
+   - Chirurgia ortopedica per la frattura alla gamba sinistra
+
+   Durante il ricovero in Ortopedia, Alfio Cossiga ha subito un intervento chirurgico per ripristinare l'integrità dell'osso fratturato nella gamba sinistra. L'intervento è stato eseguito con successo, utilizzando tecniche moderne e materiali di fissazione interna. Dopo l'intervento, è stato seguito un percorso riabilitativo per favorire la guarigione e il recupero della funzionalità dell'arto.
+
+Si ricorda inoltre che il paziente può essere stato spostato in diverse stanze durante i suoi ricoveri, ma non sono disponibili ulteriori informazioni su questo aspetto.
+
+La cartella clinica ospedaliera di Alfio Cossiga fornisce un quadro dettagliato dei suoi ricoveri, sintomi manifestati e interventi subiti. Il paziente è stato seguito dal Dott.ssa Etta Quasimodo presso la Struttura Ospedaliera "A.O. OSPEDALE DI CIRCOLO - MELEGNANO".

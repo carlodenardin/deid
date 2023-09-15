@@ -1,0 +1,51 @@
+Cartella Clinica Ospedaliera
+
+Paziente:
+   - ID: 66394994
+   - Nome: Federica
+   - Cognome: Coppola
+   - Data di Nascita: 08-03-1923
+   - Indirizzo: Contrada Saverio, 112 Piano 9, 22069, Rovellasca (CO)
+   - Telefono: 34484536538
+
+Dottore:
+   - Nome: Dott. Nico
+   - Cognome: Petruzzi
+   - Email: lodovicoscarponi@example.com
+   - Telefono: +39 377782860
+   - Struttura Ospedaliera: AZIENDA OSPEDALIERA REGIONALE 'S. CARLO'
+   - Municipio: Potenza
+
+Storia del Paziente:
+   - Ricoveri:
+     - Primo Ricovero:
+       - Data: 12-06-2010
+       - Reparto: Neurologia
+       - Stanza: 203
+       - Motivo: Svenimenti ricorrenti e vertigini
+
+     - Secondo Ricovero:
+       - Data: 02-08-2015
+       - Reparto: Cardiologia
+       - Stanza: 105
+       - Motivo: Dolore toracico e palpitazioni
+
+   - Sintomi:
+     - Dolore cronico alle articolazioni
+     - Affaticamento persistente
+     - Perdita di appetito
+     - Difficoltà nel concentrarsi
+
+   - Interventi:
+     - Primo Intervento:
+       - Data: 20-07-2010
+       - Tipo: Esami diagnostici approfonditi per svenimenti ricorrenti
+       - Risultati: Non sono state rilevate anomalie significative
+
+     - Secondo Intervento:
+       - Data: 10-09-2015
+       - Tipo: Cateterismo cardiaco per valutare problemi cardiaci
+       - Risultati: La paziente presenta un'insufficienza cardiaca leggera
+
+Storia del Medico:
+   - Il Dott. Nico Petruzzi è uno specialista di lunga esperienza nel settore medico. Si occupa principalmente di malattie neurologiche e cardiovascolari. È riconosciuto per la sua competenza e dedizione nel trattamento dei pazienti. Ha lavorato presso l'Azienda Ospedaliera Regionale 'S. Carlo' di Potenza per un lungo periodo e ha guadagnato la fiducia dei pazienti grazie alla sua professionalità e cura.

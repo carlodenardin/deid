@@ -1,0 +1,42 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Massimo Traetta
+Data di Nascita: 04-11-1947
+Indirizzo: Borgo Toso, 4, 81043, Capua (CE)
+Telefono: 375742252
+Codice Fiscale: TRCNTL40P10C676X
+
+Medico Curante: Dott. Fredo Accardo
+Struttura Ospedaliera: Azienda Ospedaliera Sant'Andrea, Roma
+
+Storico del Paziente:
+
+Ricoveri:
+1. Data Ricovero: 03-03-2010, Reparto: Cardiologia, Stato: Dimesso
+   Motivo: Infarto miocardico acuto
+   
+2. Data Ricovero: 10-08-2015, Reparto: Ortopedia, Stato: Dimesso
+   Motivo: Frattura della caviglia sinistra
+   
+3. Data Ricovero: 22-06-2019, Reparto: Urologia, Stato: Dimesso
+   Motivo: Calcoli renali
+
+Interventi Chirurgici:
+1. Data Intervento: 08-03-2010, Reparto: Cardiologia
+   Tipo di Intervento: Angioplastica coronarica
+   
+2. Data Intervento: 15-08-2015, Reparto: Ortopedia
+   Tipo di Intervento: Riduzione e fissazione interna della caviglia sinistra
+   
+3. Data Intervento: 30-06-2019, Reparto: Urologia
+   Tipo di Intervento: Litotrissia extracorporea per calcolosi renale
+
+Sintomi Riportati:
+1. Data Sintomo: 01-03-2010, Descrizione: Dolore toracico e fiato corto
+   Collegato all'infarto miocardico acuto
+   
+2. Data Sintomo: 05-08-2015, Descrizione: Gonfiore e dolore alla caviglia sinistra
+   Collegato alla frattura della caviglia
+   
+3. Data Sintomo: 20-06-2019, Descrizione: Dolore lombare e difficoltà nella minzione
+   Collegato alla presenza di calcoli renali

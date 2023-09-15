@@ -1,0 +1,43 @@
+Cartella Clinica Ospedaliera - Paziente Gastone Gabbana
+
+Informazioni Paziente:
+- ID Paziente: 99256148
+- Nome Paziente: Gastone
+- Cognome Paziente: Gabbana
+- Data di Nascita Paziente: 04-03-1923
+- Indirizzo Paziente: Vicolo Zecchini, 54, 45012, Ariano (RO)
+- Telefono Paziente: 320555332
+- Codice Fiscale Paziente: SLMLSS25R03C202P
+
+Informazioni Medico:
+- Nome Medico: Daniele
+- Cognome Medico: Coardi
+- Specializzazione Medico: Cardiologo
+- Struttura Ospedaliera: Policlinico U. I, Roma
+
+Storico del Paziente:
+
+Ricoveri:
+1. Data: 18-05-2010
+   Motivo: Problemi respiratori
+   Durata: 5 giorni
+   Stanza: 301 (Reparto Pneumologia)
+
+2. Data: 02-09-2015
+   Motivo: Infarto miocardico
+   Durata: 10 giorni
+   Stanza: 504 (Reparto Cardiologia)
+
+Sintomi:
+1. Dolore al petto: il paziente ha riferito episodi sporadici di dolore al petto, spesso associato a sforzi fisici intensi.
+2. Affanno durante l'attività fisica: il paziente ha segnalato difficoltà a respirare durante sforzi moderati.
+
+Interventi:
+1. 20-05-2010: Esecuzione di spirometria per valutare la funzionalità polmonare.
+2. 10-09-2015: Angioplastica coronarica con impianto di stent per ripristinare la circolazione sanguigna al cuore.
+
+Il Dott. Daniele Coardi, esperto Cardiologo presso il Policlinico U. I di Roma, ha seguito il paziente Gastone Gabbana durante i suoi ricoveri e interventi. Il Dott. Coardi ha diagnosticato la presenza di problemi respiratori e un infarto miocardico nel paziente. Durante i ricoveri, il paziente è stato assegnato alla stanza 301 nel reparto di Pneumologia e successivamente alla stanza 504 nel reparto di Cardiologia.
+
+Le sintomatologie riportate dal paziente includevano episodi di dolore al petto e affanno durante l'attività fisica. Al fine di valutare la funzionalità polmonare, è stata eseguita una spirometria. Successivamente, per ripristinare la circolazione sanguigna al cuore, è stata effettuata un'angioplastica coronarica con impianto di stent.
+
+Si raccomanda l'ulteriore monitoraggio del paziente per valutare la sua salute cardiaca e polmonare.

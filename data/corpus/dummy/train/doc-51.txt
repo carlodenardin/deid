@@ -1,0 +1,44 @@
+Cartella Clinica Ospedaliera - Paziente Fiamma Boezio
+-----------------------------------------------------------------
+
+Informazioni Paziente:
+- ID Paziente: 84189643
+- Nome Paziente: Fiamma
+- Cognome Paziente: Boezio
+- Data di Nascita Paziente: 08/10/1953
+- Indirizzo Paziente: Borgo Boezio, 357 Appartamento 9, 37022, Breonio (VR)
+- Telefono Paziente: +39 019899871
+
+Informazioni Medico Curante:
+- Nome Medico: Dott.ssa Renata Niggli
+- Email Medico: michelotto65@example.org
+- Telefono Medico: +39 0916055638
+- Struttura Ospedaliera: IRCCS "SAVERIO DE BELLIS" - Castellana Grotte
+
+Storico del Paziente:
+1. Ricovero: 
+   - Data Inizio: 02/07/2010
+   - Data Fine: 28/07/2010
+   - Motivo: Frattura alla gamba sinistra
+   - Reparto: Ortopedia
+   - Stanza: 101A
+
+   Durante il ricovero, il Paziente presentava forti dolori alla gamba sinistra a causa di una frattura. È stata eseguita un'operazione chirurgica per riparare la frattura e il Paziente è rimasto in ospedale per 26 giorni.
+
+2. Ricovero: 
+   - Data Inizio: 12/03/2015
+   - Data Fine: 22/03/2015
+   - Motivo: Infezione respiratoria
+   - Reparto: Medicina Interna
+   - Stanza: 305B
+
+   Durante il ricovero, il Paziente ha sviluppato un'importante infezione respiratoria. È stato sottoposto a terapie antibiotiche e altre cure appropriate per alleviare i sintomi. Dopo 10 giorni di degenza, il Paziente è stato dimesso in condizioni stabili.
+
+Interventi Chirurgici:
+1. Data: 17/09/2002
+   - Tipo di Intervento: Appendicectomia
+   - Medico Chirurgo: Dott. C. D. N.
+
+Durante il corso della sua vita, il Paziente ha subito un intervento chirurgico di appendicectomia, eseguito dal Dott. C. D. N. nella data sopra indicata. L'intervento è stato necessario per rimuovere l'appendice infiammata.
+
+Nota: I dettagli specifici come codice fiscale, email e numeri di telefono del Paziente e del Medico non sono stati inclusi per garantire la privacy.

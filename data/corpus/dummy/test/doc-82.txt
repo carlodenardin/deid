@@ -1,0 +1,71 @@
+Cartella clinica ospedaliera
+
+Paziente:
+ID Paziente: 88154963
+Nome Paziente: Ubaldo
+Cognome Paziente: Gelli
+Data di Nascita Paziente: 13/11/1959
+Indirizzo Paziente: Viale Ovadia, 79 Piano 7, 16124, Genova (GE)
+Telefono Paziente: 0549777271
+Codice Fiscale Paziente: CSRGSN03R48G111A
+
+Medico:
+Nome Medico: Antonino
+Cognome Medico: Gigli
+Email Medico: endrizzistefano@example.org
+Telefono Medico: +39 37769692900
+
+Struttura Ospedaliera:
+Azienda Ospedaliera 'Civico-Di Cristina, Palermo
+
+Storico del Paziente:
+
+1. Ricovero:
+Data: 01/05/2010
+Reparto: Cardiologia
+Stanza: 204
+Motivo: Problemi cardiaci acuti
+Intervento: Angioplastica coronarica
+
+2. Ricovero:
+Data: 19/03/2015
+Reparto: Ortopedia
+Stanza: 305
+Motivo: Frattura alla gamba sinistra
+Intervento: Riduzione aperta e fissazione interna
+
+3. Ricovero:
+Data: 02/09/2018
+Reparto: Urologia
+Stanza: 108
+Motivo: Calcoli renali
+Intervento: Litotrissia extracorporea
+
+4. Ricovero:
+Data: 10/07/2021
+Reparto: Gastroenterologia
+Stanza: 412
+Motivo: Problemi digestivi ricorrenti
+Intervento: Endoscopia digestiva alta
+
+Sintomi riportati dal Paziente:
+
+- Dolore al petto
+- Difficoltà respiratorie
+- Affaticamento
+- Dolore alla gamba sinistra
+- Difficoltà nella deambulazione
+- Dolore al fianco destro
+- Difficoltà nella minzione
+- Dolore addominale
+
+Nota: Il paziente ha riportato i sintomi sopra elencati in diverse occasioni durante i suoi ricoveri.
+
+Storia personale del Paziente:
+
+- Ubaldo ha lavorato come operaio edile per più di 20 anni fino al 2009, quando ha dovuto interrompere l'attività a causa dei problemi cardiaci.
+- Durante il periodo di degenza in ospedale nel 2015, Ubaldo ha incontrato un giovane musicista che suonava nella band locale e da allora si è appassionato alla musica.
+- Dopo il ricovero nel 2018, Ubaldo è diventato responsabile di un reparto presso una grande azienda di produzione.
+- Il paziente non fa uso di sostanze stupefacenti o di cannabis.
+
+Queste informazioni sono state riportate per fornire una panoramica esaustiva del paziente Ubaldo Gelli e del suo trattamento medico. Ogni dettaglio è stato fornito in modo da mantenere la privacy del paziente, utilizzando identificatori indiretti.

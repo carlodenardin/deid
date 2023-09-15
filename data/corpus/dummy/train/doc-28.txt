@@ -1,0 +1,41 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Alberto Pavone
+Data di Nascita: 1 gennaio 1964 (56 anni)
+Indirizzo: Contrada Liana, 5 Piano 3, 28805 Vogogna (VB)
+Telefono: +39 0708666986
+Email: fedele15@example.com
+Codice Fiscale: NCHCRL57S19L393S
+
+Dottore Curante: Dott.ssa Federica Amaldi
+Email Dottore: amedeo30@example.net
+Telefono Dottore: 33192644475
+
+Struttura Ospedaliera: AORP A. Pardopiemonte, MESSINA
+
+------------------------------------------
+
+Storico del Paziente:
+
+Ricoveri:
+1. Data Ricovero: 15 febbraio 2010 - Reparto: Cardiologia - Stanza: 203
+   Motivo Ricovero: Dolore toracico, alta pressione sanguigna
+   Intervento: Angioplastica coronarica per trattamento di arterie coronariche ostruite
+
+2. Data Ricovero: 3 aprile 2015 - Reparto: Ortopedia - Stanza: 107
+   Motivo Ricovero: Frattura composta alla gamba sinistra a seguito di incidente stradale
+   Intervento: Riduzione e fissazione interna con placca e viti
+
+3. Data Ricovero: 19 maggio 2018 - Reparto: Urologia - Stanza: 305
+   Motivo Ricovero: Calcoli renali
+   Intervento: Litotrissia extracorporea a onde d'urto per frammentazione dei calcoli renali
+
+Sintomi Recenti:
+- Dolore lombare persistente da 2 settimane
+- Nausea e vomito occasionali
+- Aumento della sete e della minzione
+- Fatica e mancanza di energia
+
+-------------------------
+
+Si prega di notare che i dettagli specifici come l'indirizzo email, il numero di telefono e il codice fiscale del paziente sono stati omessi per motivi di privacy.

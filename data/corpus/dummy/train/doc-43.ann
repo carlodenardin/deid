@@ -1,0 +1,33 @@
+T1	SSN 280 296	ZPPGSP56D02H921F
+T2	Address 195 238	Borgo Maspero, 4 Piano 0, 84073, Sapri (SA)
+T3	Phone 249 263	+39 0585787372
+T4	Date 173 183	07-08-1975
+T5	Name 141 155	Gian Tomasetti
+T6	Name 421 438	Goffredo Rosselli
+T7	Email 446 467	ezamorani@example.net
+T8	Phone 478 488	0425082971
+T9	Care_Institute 512 537	IRCCS AOU S.MARTINO - IST
+T10	Address 539 545	GENOVA
+T11	Name 651 665	Gian Tomasetti
+T12	Care_Institute 724 749	IRCCS AOU S.MARTINO - IST
+T13	Address 752 758	Genova
+T14	Date 871 881	24-03-2010
+T15	Date 892 931	5 giorni (dal 24-03-2010 al 29-03-2010)
+T16	Internal_Location 943 954	Cardiologia
+T17	Internal_Location 965 968	201
+T18	Internal_Location 1158 1167	Ortopedia
+T19	Internal_Location 1178 1181	407
+T20	Date 1086 1096	12-09-2014
+T21	Date 1107 1146	8 giorni (dal 12-09-2014 al 20-09-2014)
+T22	Date 1293 1303	03-05-2018
+T23	Date 1314 1353	3 giorni (dal 03-05-2018 al 06-05-2018)
+T24	Internal_Location 1386 1389	302
+T25	Internal_Location 1365 1375	Neurologia
+T26	Date 1507 1517	19-11-2020
+T27	Date 1528 1567	2 giorni (dal 19-11-2020 al 21-11-2020)
+T28	Internal_Location 1579 1596	Gastroenterologia
+T29	Internal_Location 1607 1610	109
+T30	Name 1733 1750	Goffredo Rosselli
+T31	Name 1761 1775	Gian Tomasetti
+T32	Name 2059 2073	Gian Tomasetti
+T33	Name 2159 2167	Rosselli

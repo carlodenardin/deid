@@ -1,0 +1,42 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Arnulfo Malipiero
+Data di Nascita: 20-09-1973
+Indirizzo: Stretto Pasqual, 525 Piano 3, 00181, Roma (RM)
+Telefono: 0825284127
+Codice Fiscale: LNCMRK33R61C181I
+
+Medico curante: Dott. Mariano Traversa
+Email Medico: kpertini@example.org
+Telefono Medico: 0426020813
+Struttura Ospedaliera: INMI 'L.SPALLANZANI' - IRCCS, Roma
+
+Storia Clinica:
+
+Arnulfo Malipiero è un paziente di 47 anni residente a Roma. È stato ricoverato diverse volte presso l'INMI 'L.SPALLANZANI' - IRCCS per una serie di problemi di salute.
+
+Ricoveri:
+1. Data: 12-03-2015, Durata: 5 giorni, Reparto: Cardiologia, Stanza: 301
+   - Motivo del ricovero: Dolore al petto e difficoltà respiratorie
+   - Diagnosi: Infarto miocardico acuto
+   - Intervento: Angioplastica coronarica per ripristinare il flusso sanguigno nel cuore
+
+2. Data: 02-07-2017, Durata: 7 giorni, Reparto: Medicina Interna, Stanza: 205
+   - Motivo del ricovero: Febbre e tosse persistente
+   - Diagnosi: Polmonite
+   - Intervento: Trattamento antibiotico e supporto respiratorio
+
+3. Data: 18-09-2018, Durata: 3 giorni, Reparto: Ortopedia, Stanza: 415
+   - Motivo del ricovero: Frattura del femore destro a seguito di una caduta
+   - Diagnosi: Frattura scomposta del femore
+   - Intervento: Riduzione chirurgica aperta e fissazione interna con una placca
+
+Sintomi:
+Arnulfo ha manifestato una serie di sintomi durante i suoi ricoveri, tra cui dolori al petto e difficoltà respiratorie durante il primo ricovero, febbre e tosse persistente durante il secondo ricovero e dolore e impossibilità di camminare a causa della frattura del femore durante il terzo ricovero.
+
+Interventi Medici:
+Durante il primo ricovero, è stato eseguito un intervento di angioplastica coronarica per ripristinare il flusso sanguigno nel cuore. Nel secondo ricovero, Arnulfo è stato sottoposto a un trattamento antibiotico e ha ricevuto supporto respiratorio per combattere la polmonite. Infine, nel terzo ricovero, è stato effettuato un intervento chirurgico di riduzione chirurgica aperta e fissazione interna per riparare la frattura del femore.
+
+Il Dott. Mariano Traversa ha seguito da vicino il paziente durante tutti i suoi ricoveri, garantendo un'attenta diagnosi e un adeguato trattamento per affrontare le sue condizioni mediche.
+
+La privacy del paziente è garantita attraverso l'utilizzo di identificatori indiretti e non vengono forniti dettagli sensibili come l'indirizzo email e il numero di telefono del paziente o del medico.

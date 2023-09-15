@@ -1,0 +1,45 @@
+T1	Name 40 55	Foletti Michele
+T2	ID 70 78	63708060
+T3	Date 96 106	02-05-1953
+T5	Phone 167 177	0156038673
+T6	Email 185 209	zitolamberto@example.org
+T7	Name 236 250	Antonina Balbi
+T8	Email 265 283	fcorbo@example.org
+T9	Phone 301 312	05734834633
+T10	Hospital 336 385	Azienda Ospedaliera Pugliese De Lellis, CATANZARO
+T11	Internal_Location 482 485	305
+T13	Date 442 452	15-02-2010
+T14	Date 428 438	12-02-2010
+T15	Date 595 605	23-07-2015
+T16	Date 609 619	28-07-2015
+T17	Internal_Location 647 650	112
+T19	Date 750 760	05-09-2011
+T12	Date 838 848	19-06-2018
+T18	Date 943 953	01-02-2010
+T20	Date 985 995	25-07-2015
+T21	Name 1085 1100	Michele Foletti
+T22	Name 1102 1109	Michele
+T23	Hospital 1184 1234	Azienda Ospedaliera Pugliese De Lellis a CATANZARO
+T24	Name 1261 1268	Michele
+T25	Name 1529 1536	Michele
+T26	Name 1646 1653	Michele
+T27	Date 1765 1781	5 settembre 2011
+T28	Date 1870 1884	19 giugno 2018
+T29	Date 1957 1972	1 febbraio 2010
+T30	Date 2002 2016	25 luglio 2015
+T31	Name 1887 1894	Michele
+T32	Name 2031 2045	Antonina Balbi
+T33	Name 2069 2076	Michele
+T34	Organization 2126 2164	Azienda Ospedaliera Pugliese De Lellis
+T35	Email 2241 2259	fcorbo@example.org
+T36	Phone 2271 2282	05734834633
+T37	Internal_Location 454 473	Reparto Cardiologia
+T38	Internal_Location 621 638	Reparto Ortopedia
+T39	Internal_Location 762 788	Reparto Chirurgia Generale
+T40	Internal_Location 850 866	Reparto Urologia
+T41	Internal_Location 1146 1168	reparto di Cardiologia
+T42	Internal_Location 1732 1761	reparto di Chirurgia Generale
+T43	Internal_Location 1847 1866	reparto di Urologia
+T4	Address 118 137	Piazza Isabella, 19
+T44	Address 138 143	81031
+T45	Address 145 156	Aversa (CE)

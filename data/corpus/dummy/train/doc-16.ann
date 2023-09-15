@@ -1,0 +1,33 @@
+T1	Name 40 55	Gastone Gabbana
+T2	ID 95 103	99256148
+T3	Name 121 128	Gastone
+T4	Name 149 156	Gabbana
+T5	Date 185 195	04-03-1923
+T6	Address 218 257	Vicolo Zecchini, 54, 45012, Ariano (RO)
+T7	Phone 279 288	320555332
+T8	SSN 316 332	SLMLSS25R03C202P
+T9	Name 370 377	Daniele
+T10	Name 396 402	Coardi
+T11	Profession 430 440	Cardiologo
+T12	Hospital 466 482	Policlinico U. I
+T13	Address 484 488	Roma
+T14	Date 532 542	18-05-2010
+T15	Date 642 652	02-09-2015
+T16	Date 694 703	10 giorni
+T17	Date 586 594	5 giorni
+T18	Internal_Location 606 609	301
+T19	Internal_Location 715 718	504
+T20	Date 1002 1012	20-05-2010
+T21	Date 1083 1093	10-09-2015
+T22	Name 1205 1219	Daniele Coardi
+T23	Profession 1229 1239	Cardiologo
+T24	Hospital 1250 1266	Policlinico U. I
+T25	Address 1270 1274	Roma
+T26	Name 1299 1314	Gastone Gabbana
+T27	Name 1362 1368	Coardi
+T28	Internal_Location 1522 1525	301
+T29	Internal_Location 1583 1586	504
+T30	Internal_Location 611 630	Reparto Pneumologia
+T31	Internal_Location 720 739	Reparto Cardiologia
+T32	Internal_Location 1531 1552	eparto di Pneumologia
+T33	Internal_Location 1591 1613	reparto di Cardiologia

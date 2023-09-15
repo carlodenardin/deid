@@ -1,0 +1,47 @@
+Cartella Clinica Paziente
+
+ID Paziente: 11985661
+Nome Paziente: Enrico
+Cognome Paziente: Giannelli
+Data di Nascita Paziente: 28 ottobre 1941
+Età Paziente: 79 anni
+Indirizzo Paziente: Incrocio Federico, 7, 30123 Venezia (VE)
+
+Informazioni Medico Curante:
+Nome Dottore: Rembrandt
+Cognome Dottore: Lerner
+Genere Dottore: Dott.
+Email Dottore: rodolfosaffi@example.org
+Telefono Dottore: +39 3713054425
+
+Struttura Ospedaliera: AZIENDA OSPEDALIERO-UNIVERSITARIA, Udine
+
+Storico del Paziente:
+Enrico Giannelli è un paziente di 79 anni che è stato ricoverato diverse volte presso l'Azienza Ospedaliero-Universitaria di Udine. Durante i suoi ricoveri, è stato assegnato a diverse stanze all'interno della struttura.
+
+Ricoveri:
+- Primo Ricovero: 12 gennaio 2016 - 16 gennaio 2016
+  Reparto: Cardiologia
+  Stanza: 201
+  
+- Secondo Ricovero: 8 aprile 2018 - 15 aprile 2018
+  Reparto: Neurologia
+  Stanza: 305
+  
+- Terzo Ricovero: 2 marzo 2019 - 10 marzo 2019
+  Reparto: Ortopedia
+  Stanza: 102
+  
+Durante i suoi soggiorni in ospedale, Enrico ha presentato diversi sintomi e ha subito alcuni interventi.
+
+Sintomi:
+- Febbre persistente
+- Forte mal di testa
+- Difficoltà respiratorie
+
+Interventi:
+- Elettrocardiogramma
+- Risonanza magnetica cerebrale
+- Ecografia articolare
+
+Il Dottor Rembrandt Lerner ha seguito attentamente il caso di Enrico Giannelli, valutando i sintomi e prescrivendo gli interventi necessari per la sua cura.

@@ -1,0 +1,47 @@
+Cartella Clinica Ospedaliera
+
+Paziente: Foletti Michele
+
+ID Paziente: 63708060
+Data di Nascita: 02-05-1953
+Indirizzo: Piazza Isabella, 19
+81031, Aversa (CE)
+Telefono: 0156038673
+Email: zitolamberto@example.org
+
+Medico Curante: Dott.ssa Antonina Balbi
+Email Medico: fcorbo@example.org
+Telefono Medico: 05734834633
+Struttura Ospedaliera: Azienda Ospedaliera Pugliese De Lellis, CATANZARO
+
+Storico del Paziente:
+
+- Ricoveri:
+   1. 12-02-2010 al 15-02-2010: Reparto Cardiologia, Stanza 305
+   Motivo: Problemi cardiaci
+   Trattamento: Elettrocardiogramma, Monitoraggio pressione arteriosa
+   
+   2. 23-07-2015 al 28-07-2015: Reparto Ortopedia, Stanza 112
+   Motivo: Frattura alla mano sinistra
+   Trattamento: Gesso, Fisioterapia
+   
+- Interventi:
+   1. 05-09-2011: Reparto Chirurgia Generale
+   Tipo di Intervento: Appendicectomia
+   
+   2. 19-06-2018: Reparto Urologia
+   Tipo di Intervento: Prostatectomia
+   
+- Sintomi:
+   1. Dolore al petto: 01-02-2010
+   2. Difficoltà respiratorie: 25-07-2015
+
+Questa è una cartella clinica ospedaliera esaustiva che riporta il storico del paziente Michele Foletti. Michele ha avuto due ricoveri, il primo nel reparto di Cardiologia nell'ospitalie Azienda Ospedaliera Pugliese De Lellis a CATANZARO. Durante questo ricovero, Michele ha presentato problemi cardiaci ed è stato sottoposto a monitoraggio della pressione arteriosa e a un elettrocardiogramma.
+
+Il secondo ricovero è avvenuto nel reparto di Ortopedia sempre presso lo stesso ospedale. In seguito a una frattura alla mano sinistra, Michele è stato curato con la posizionamento di un gesso e ha ricevuto anche delle sedute di fisioterapia.
+
+Inoltre, Michele ha subito due interventi. Il primo, una appendicectomia, è stato eseguito nel reparto di Chirurgia Generale il 5 settembre 2011. Il secondo intervento, una prostatectomia, è stato eseguito nel reparto di Urologia il 19 giugno 2018.
+
+Michele ha riportato anche alcuni sintomi, come un dolore al petto il 1 febbraio 2010 e difficoltà respiratorie il 25 luglio 2015.
+
+La Dott.ssa Antonina Balbi è il medico curante di Michele e si occupa della sua assistenza medica presso l'Azienda Ospedaliera Pugliese De Lellis. In caso di necessità, è possibile contattarla ai seguenti recapiti: email: fcorbo@example.org, telefono: 05734834633.
