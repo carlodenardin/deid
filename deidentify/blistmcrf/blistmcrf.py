@@ -122,9 +122,10 @@ def main():
     trainer = ModelTrainer(tagger, flair_corpus)
     trainer.train(join(model_dir, 'flair'),
                     max_epochs=5,
-                    mini_batch_size=4,
+                    mini_batch_size=8,
                     monitor_train=False,
-                    train_with_dev=False)
+                    train_with_dev=False,
+                    embeddings_storage_mode='none')
 
     if not False:
         # Model performance is judged by dev data, so we also pick the best performing model
