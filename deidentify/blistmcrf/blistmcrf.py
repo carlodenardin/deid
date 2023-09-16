@@ -121,7 +121,7 @@ def main():
 
     trainer = ModelTrainer(tagger, flair_corpus)
     trainer.train(join(model_dir, 'flair'),
-                    max_epochs=1,
+                    max_epochs=5,
                     monitor_train=False,
                     train_with_dev=False)
 
