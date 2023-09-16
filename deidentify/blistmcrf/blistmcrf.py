@@ -123,7 +123,8 @@ def main():
     trainer.train(join(model_dir, 'flair'),
                     max_epochs=5,
                     monitor_train=False,
-                    train_with_dev=False)
+                    train_with_dev=False,
+                    embeddings_in_memory=False)
 
     if not False:
         # Model performance is judged by dev data, so we also pick the best performing model
